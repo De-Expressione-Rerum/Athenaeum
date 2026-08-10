@@ -1,4 +1,83 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Units on Athenaeum</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/</link><description>Recent content in Units on Athenaeum</description><generator>Hugo</generator><language>en-US</language><atom:link href="https://De-Expressione-Rerum.github.io/Athenaeum/units/index.xml" rel="self" type="application/rss+xml"/><item><title>Allegory</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-11/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Units on Athenaeum</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/</link><description>Recent content in Units on Athenaeum</description><generator>Hugo</generator><language>en-US</language><atom:link href="https://De-Expressione-Rerum.github.io/Athenaeum/units/index.xml" rel="self" type="application/rss+xml"/><item><title>After Impressionism</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
+ &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
+ &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; What follows Impressionism: Post-Impressionism, Fauvism, and the beginnings of Expressionism.&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
+&lt;h3 id="i-post-impressionism"&gt;I. Post-Impressionism&lt;/h3&gt;
+&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Post-Impressionism"&gt;
+ &lt;header class="slideshow__header"&gt;
+ &lt;h2 class="slideshow__title"&gt;Post-Impressionism&lt;/h2&gt;
+ &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;
+ &lt;/header&gt;
+ &lt;div class="slideshow__viewport"&gt;
+ &lt;div class="slideshow__track"&gt;
+ 
+&lt;figure class="slideshow__slide"&gt;
+ &lt;div class="slideshow__image-frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/van-gogh-night-cafe_hu_e6af675f1c11d4a8.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/van-gogh-night-cafe_hu_e6af675f1c11d4a8.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/van-gogh-night-cafe_hu_68c20ecff9cfa8f5.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1920px" width="1920" height="1516" alt="Vincent van Gogh, The Night Café, 1888." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/van-gogh-night-cafe.jpg" data-lightbox-alt="Vincent van Gogh, The Night Café, 1888." data-lightbox-caption="Vincent van Gogh, *The Night Café*, 1888." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;figcaption&gt;Vincent van Gogh, &lt;em&gt;The Night Café&lt;/em&gt;, 1888.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class="slideshow__slide"&gt;
+ &lt;div class="slideshow__image-frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/gauguin-vision-after-sermon_hu_3b0acc4a96d8d5e1.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/gauguin-vision-after-sermon_hu_3b0acc4a96d8d5e1.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/gauguin-vision-after-sermon_hu_e94ced56c940dc07.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1920px" width="1920" height="1505" alt="Paul Gauguin, Vision after the Sermon, 1888." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/gauguin-vision-after-sermon.jpg" data-lightbox-alt="Paul Gauguin, Vision after the Sermon, 1888." data-lightbox-caption="Paul Gauguin, *Vision after the Sermon*, 1888." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;figcaption&gt;Paul Gauguin, &lt;em&gt;Vision after the Sermon&lt;/em&gt;, 1888.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class="slideshow__slide"&gt;
+ &lt;div class="slideshow__image-frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/cezanne-basket-apples_hu_6a1cab74f7789673.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/cezanne-basket-apples_hu_6a1cab74f7789673.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/cezanne-basket-apples_hu_9bff4269a0f61161.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1920px" width="1920" height="1537" alt="Paul Cézanne, The Basket of Apples, c. 1893." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/cezanne-basket-apples.jpg" data-lightbox-alt="Paul Cézanne, The Basket of Apples, c. 1893." data-lightbox-caption="Paul Cézanne, *The Basket of Apples*, c. 1893." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;figcaption&gt;Paul Cézanne, &lt;em&gt;The Basket of Apples&lt;/em&gt;, c. 1893.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class="slideshow__slide"&gt;
+ &lt;div class="slideshow__image-frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/cezanne-mont-sainte-victoire-bibemus_hu_d9043c3198ff2f99.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/cezanne-mont-sainte-victoire-bibemus_hu_d9043c3198ff2f99.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/cezanne-mont-sainte-victoire-bibemus_hu_77fdab1e820d2569.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 2618px" width="2618" height="1729" alt="Paul Cézanne, Mont Sainte-Victoire Seen from the Bibémus Quarry, c. 1897." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/cezanne-mont-sainte-victoire-bibemus.jpg" data-lightbox-alt="Paul Cézanne, Mont Sainte-Victoire Seen from the Bibémus Quarry, c. 1897." data-lightbox-caption="Paul Cézanne, *Mont Sainte-Victoire Seen from the Bibémus Quarry*, c. 1897." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;figcaption&gt;Paul Cézanne, &lt;em&gt;Mont Sainte-Victoire Seen from the Bibémus Quarry&lt;/em&gt;, c. 1897.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="slideshow__controls" aria-label="Slideshow controls"&gt;
+ &lt;button class="slideshow__button slideshow__button--prev" type="button" aria-label="Previous image"&gt;PREVIOUS&lt;/button&gt;
+ &lt;button class="slideshow__button slideshow__button--next" type="button" aria-label="Next image"&gt;NEXT&lt;/button&gt;
+ &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;h3 id="ii-fauvism"&gt;II. Fauvism&lt;/h3&gt;
+&lt;figure class="athenaeum-image"&gt;
+ &lt;div class="athenaeum-image__frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/matisse-woman-with-hat_hu_960b6c03ac886367.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/matisse-woman-with-hat_hu_960b6c03ac886367.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/matisse-woman-with-hat_hu_a44f2824a9667f5d.webp 1280w" sizes="(max-width: 760px) 100vw, 900px" style="--athenaeum-source-width: 1280px" width="1280" height="1742" alt="Henri Matisse, Woman with a Hat, 1905." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/matisse-woman-with-hat.jpg" data-lightbox-alt="Henri Matisse, Woman with a Hat, 1905." data-lightbox-caption="Henri Matisse, *Woman with a Hat*, 1905." data-lightbox-mode="single" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;&lt;figcaption&gt;Henri Matisse, &lt;em&gt;Woman with a Hat&lt;/em&gt;, 1905.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;h3 id="iii-toward-expressionism"&gt;III. Toward Expressionism&lt;/h3&gt;
+&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Ensor, Munch, and Kirchner"&gt;
+ &lt;header class="slideshow__header"&gt;
+ &lt;h2 class="slideshow__title"&gt;Ensor, Munch, and Kirchner&lt;/h2&gt;
+ &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;</description></item><item><title>Allegory</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-11/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-11/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
  &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
  &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Allegory in &lt;em&gt;Everyman&lt;/em&gt;, Spenser, and visual art.&lt;/div&gt;
 &lt;/aside&gt;
@@ -197,6 +276,16 @@
 
 &lt;figure class="slideshow__slide"&gt;
  &lt;div class="slideshow__image-frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-14/holbein-erasmus_hu_e18564220f32563e.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-14/holbein-erasmus_hu_e18564220f32563e.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-14/holbein-erasmus_hu_a9c3416b2bf1efc3.webp 927w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 927px" width="927" height="1200" alt="Hans Holbein the Younger, portrait of Erasmus of Rotterdam, c. 1532." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-14/holbein-erasmus.jpg" data-lightbox-alt="Hans Holbein the Younger, portrait of Erasmus of Rotterdam, c. 1532." data-lightbox-caption="Hans Holbein the Younger (and workshop?), *Erasmus of Rotterdam*, c. 1532, oil on linden panel, Metropolitan Museum of Art. Public domain / The Met Open Access." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;figcaption&gt;Hans Holbein the Younger (and workshop?), &lt;em&gt;Erasmus of Rotterdam&lt;/em&gt;, c. 1532, oil on linden panel, Metropolitan Museum of Art. Public domain / The Met Open Access.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class="slideshow__slide"&gt;
+ &lt;div class="slideshow__image-frame"&gt;
  &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-14/hogenberg-iconoclastic-riot-1566_hu_b0bc9d68f66bff1b.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-14/hogenberg-iconoclastic-riot-1566_hu_b0bc9d68f66bff1b.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-14/hogenberg-iconoclastic-riot-1566_hu_f9d6b42bdd72ed85.webp 1224w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1224px" width="1224" height="900" alt="Frans Hogenberg, The Calvinist Iconoclastic Riot of August 20, 1566." loading="lazy" decoding="async"&gt;
  &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-14/hogenberg-iconoclastic-riot-1566.jpg" data-lightbox-alt="Frans Hogenberg, The Calvinist Iconoclastic Riot of August 20, 1566." data-lightbox-caption="Frans Hogenberg, *The Calvinist Iconoclastic Riot of August 20, 1566*, engraving." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
  &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
@@ -214,9 +303,7 @@
  &lt;/div&gt;
 &lt;/section&gt;
 
-&lt;h2 id="featured-poems-and-texts"&gt;Featured Poems and Texts&lt;/h2&gt;
-&lt;h3 id="musée-des-beaux-arts"&gt;Musée des Beaux Arts&lt;/h3&gt;
-&lt;p&gt;The first stanza makes the general argument; the second turns to Bruegel and Icarus.&lt;/p&gt;</description></item><item><title>Chivalric Romance</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-08/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-08/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
+&lt;p&gt;Holbein belongs here for more than &lt;em&gt;The Body of the Dead Christ&lt;/em&gt;. His portrait of Erasmus brings Northern humanism into the same field as religious controversy and sacred imagery: the Unit can hold both the physical force of the dead Christ and the intellectual world in which reform was argued.&lt;/p&gt;</description></item><item><title>Chivalric Romance</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-08/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-08/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
  &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
  &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Arthurian romance: courtesy, vows, tests, and the Grail.&lt;/div&gt;
 &lt;/aside&gt;
@@ -230,6 +317,16 @@
  &lt;div class="slideshow__viewport"&gt;
  &lt;div class="slideshow__track"&gt;
  
+&lt;figure class="slideshow__slide"&gt;
+ &lt;div class="slideshow__image-frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-08/galahad-round-table-bnf_hu_e3264a979120c6f4.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-08/galahad-round-table-bnf_hu_e3264a979120c6f4.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-08/galahad-round-table-bnf_hu_26f24ed51ca1b0db.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 2174px" width="2174" height="3135" alt="Sir Galahad is introduced to King Arthur’s knights gathered at the Round Table in a fourteenth-century manuscript illumination." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-08/galahad-round-table-bnf.jpg" data-lightbox-alt="Sir Galahad is introduced to King Arthur’s knights gathered at the Round Table in a fourteenth-century manuscript illumination." data-lightbox-caption="*Sir Galahad Introduced to the Knights of the Round Table*, fourteenth century, illumination from *The Quest for the Holy Grail and the Death of Arthur*, BnF MS fr. 343, fol. 3r. Bibliothèque nationale de France / Gallica. Public domain." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;figcaption&gt;&lt;em&gt;Sir Galahad Introduced to the Knights of the Round Table&lt;/em&gt;, fourteenth century, illumination from &lt;em&gt;The Quest for the Holy Grail and the Death of Arthur&lt;/em&gt;, BnF MS fr. 343, fol. 3r. Bibliothèque nationale de France / Gallica. Public domain.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;figure class="slideshow__slide"&gt;
  &lt;div class="slideshow__image-frame"&gt;
  &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-08/castle-of-love-mirror-case_hu_6c80b794f132ac35.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-08/castle-of-love-mirror-case_hu_6c80b794f132ac35.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-08/castle-of-love-mirror-case_hu_8a37d93fb87ff965.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1789px" width="1789" height="1800" alt="Ivory mirror case showing the Attack on the Castle of Love, c. 1320–1340." loading="lazy" decoding="async"&gt;
@@ -286,15 +383,16 @@
 &lt;/figure&gt;
 
 
-&lt;p&gt;&lt;em&gt;The Tale of Genji&lt;/em&gt; — Murasaki Shikibu, early eleventh century. Court life in prose, with &lt;strong&gt;waka&lt;/strong&gt; used for courtship, farewell, criticism, and indirect speech.&lt;/p&gt;</description></item><item><title>Cubism</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-31/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-31/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
+&lt;p&gt;&lt;em&gt;The Tale of Genji&lt;/em&gt; — Murasaki Shikibu, early eleventh century. It is primarily a prose narrative, but its characters frequently compose and exchange &lt;strong&gt;waka&lt;/strong&gt; — short thirty-one-syllable poems used for courtship, farewell, veiled criticism, emotional disclosure, and other socially delicate communication.&lt;/p&gt;</description></item><item><title>Cubism</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-31/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-31/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
  &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
  &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Cubism: multiple viewpoints, collage, and visual poetry.&lt;/div&gt;
 &lt;/aside&gt;
 
 &lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
-&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Cubism"&gt;
+&lt;p&gt;Cézanne is included here as a crucial precursor rather than as a Cubist.&lt;/p&gt;
+&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Cézanne and Cubism"&gt;
  &lt;header class="slideshow__header"&gt;
- &lt;h2 class="slideshow__title"&gt;Cubism&lt;/h2&gt;
+ &lt;h2 class="slideshow__title"&gt;Cézanne and Cubism&lt;/h2&gt;
  &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;
  &lt;/header&gt;
  &lt;div class="slideshow__viewport"&gt;
@@ -708,55 +806,6 @@
 &lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Sacred Space and Pilgrimage"&gt;
  &lt;header class="slideshow__header"&gt;
  &lt;h2 class="slideshow__title"&gt;Sacred Space and Pilgrimage&lt;/h2&gt;
- &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;</description></item><item><title>High Renaissance to Mannerism</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
- &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
- &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; High Renaissance and Mannerism.&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
-&lt;h3 id="constructed-perspective"&gt;Constructed Perspective&lt;/h3&gt;
-&lt;p&gt;Masaccio and Uccello both construct pictorial space with linear perspective. Masaccio uses it to make the painted chapel appear to continue into the wall; Uccello makes the geometry conspicuous in the lances, fallen weapons, and foreshortened forms.&lt;/p&gt;
-&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Perspective: Masaccio and Uccello"&gt;
- &lt;header class="slideshow__header"&gt;
- &lt;h2 class="slideshow__title"&gt;Perspective: Masaccio and Uccello&lt;/h2&gt;
- &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;
- &lt;/header&gt;
- &lt;div class="slideshow__viewport"&gt;
- &lt;div class="slideshow__track"&gt;
- 
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/masaccio-holy-trinity_hu_a50522b68bcc1c06.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/masaccio-holy-trinity_hu_a50522b68bcc1c06.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/masaccio-holy-trinity_hu_9e253285c70663ea.webp 800w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 800px" width="800" height="1485" alt="Masaccio, Holy Trinity, c. 1425–1428." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/masaccio-holy-trinity.jpg" data-lightbox-alt="Masaccio, Holy Trinity, c. 1425–1428." data-lightbox-caption="Masaccio, *Holy Trinity*, c. 1425–1428. Fresco, Santa Maria Novella, Florence. Public Domain." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Masaccio, &lt;em&gt;Holy Trinity&lt;/em&gt;, c. 1425–1428. Fresco, Santa Maria Novella, Florence. Public Domain.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/uccello-battle-san-romano-london_hu_efd680d6db4559cf.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/uccello-battle-san-romano-london_hu_efd680d6db4559cf.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/uccello-battle-san-romano-london_hu_bed48fc8c7ce18c2.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 6074px" width="6074" height="3435" alt="Paolo Uccello, The Battle of San Romano, London panel, c. 1438–1440." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/uccello-battle-san-romano-london.jpg" data-lightbox-alt="Paolo Uccello, The Battle of San Romano, London panel, c. 1438–1440." data-lightbox-caption="Paolo Uccello, *The Battle of San Romano* (London panel), c. 1438–1440." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Paolo Uccello, &lt;em&gt;The Battle of San Romano&lt;/em&gt; (London panel), c. 1438–1440.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="slideshow__controls" aria-label="Slideshow controls"&gt;
- &lt;button class="slideshow__button slideshow__button--prev" type="button" aria-label="Previous image"&gt;PREVIOUS&lt;/button&gt;
- &lt;button class="slideshow__button slideshow__button--next" type="button" aria-label="Next image"&gt;NEXT&lt;/button&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;h3 id="high-renaissance"&gt;High Renaissance&lt;/h3&gt;
-&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="High Renaissance"&gt;
- &lt;header class="slideshow__header"&gt;
- &lt;h2 class="slideshow__title"&gt;High Renaissance&lt;/h2&gt;
  &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;</description></item><item><title>Impressionism and Pointillism</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-28/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-28/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
  &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
  &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Impressionism and Pointillism: light, color, modern life.&lt;/div&gt;
@@ -846,7 +895,64 @@
 
 &lt;section class="poetry-block poetry-block--classic-lyric poetry-block--form-lyric-fragment poetry-block--with-heading"&gt;
 &lt;header class="poetry-block__heading"&gt;
- &lt;p class="poetry-block__title"&gt;Fragment 31&lt;/p&gt;</description></item><item><title>Modernist Poetry and Abstraction</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-35/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-35/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
+ &lt;p class="poetry-block__title"&gt;Fragment 31&lt;/p&gt;</description></item><item><title>Metaphysical Poetry and Baroque Art</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
+ &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
+ &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Metaphysical poetry beside Baroque art: conceit, devotion, drama, time, and the body.&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
+&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Baroque Art"&gt;
+ &lt;header class="slideshow__header"&gt;
+ &lt;h2 class="slideshow__title"&gt;Baroque Art&lt;/h2&gt;
+ &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;
+ &lt;/header&gt;
+ &lt;div class="slideshow__viewport"&gt;
+ &lt;div class="slideshow__track"&gt;
+ 
+&lt;figure class="slideshow__slide"&gt;
+ &lt;div class="slideshow__image-frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/caravaggio-calling-saint-matthew_hu_6971fac8ff8bee9f.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/caravaggio-calling-saint-matthew_hu_6971fac8ff8bee9f.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/caravaggio-calling-saint-matthew_hu_af330264878cc873.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 2400px" width="2400" height="2267" alt="Caravaggio, The Calling of Saint Matthew, 1599–1600." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/caravaggio-calling-saint-matthew.jpg" data-lightbox-alt="Caravaggio, The Calling of Saint Matthew, 1599–1600." data-lightbox-caption="Caravaggio, *The Calling of Saint Matthew*, 1599–1600." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;figcaption&gt;Caravaggio, &lt;em&gt;The Calling of Saint Matthew&lt;/em&gt;, 1599–1600.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class="slideshow__slide"&gt;
+ &lt;div class="slideshow__image-frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/bernini-ecstasy-saint-teresa_hu_30e6ed4a4bc1963.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/bernini-ecstasy-saint-teresa_hu_30e6ed4a4bc1963.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/bernini-ecstasy-saint-teresa_hu_7fe2870c6e417424.webp 960w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 960px" width="960" height="1280" alt="Gian Lorenzo Bernini, The Ecstasy of Saint Teresa, 1647–1652." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/bernini-ecstasy-saint-teresa.jpg" data-lightbox-alt="Gian Lorenzo Bernini, The Ecstasy of Saint Teresa, 1647–1652." data-lightbox-caption="Gian Lorenzo Bernini, *The Ecstasy of Saint Teresa*, 1647–1652." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;figcaption&gt;Gian Lorenzo Bernini, &lt;em&gt;The Ecstasy of Saint Teresa&lt;/em&gt;, 1647–1652.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class="slideshow__slide"&gt;
+ &lt;div class="slideshow__image-frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/rubens-elevation-cross_hu_31a737482a6164aa.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/rubens-elevation-cross_hu_31a737482a6164aa.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/rubens-elevation-cross_hu_59e416ec42c7db47.webp 847w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 847px" width="847" height="730" alt="Peter Paul Rubens, The Elevation of the Cross, 1610–1611." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/rubens-elevation-cross.jpg" data-lightbox-alt="Peter Paul Rubens, The Elevation of the Cross, 1610–1611." data-lightbox-caption="Peter Paul Rubens, *The Elevation of the Cross*, 1610–1611." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;figcaption&gt;Peter Paul Rubens, &lt;em&gt;The Elevation of the Cross&lt;/em&gt;, 1610–1611.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="slideshow__controls" aria-label="Slideshow controls"&gt;
+ &lt;button class="slideshow__button slideshow__button--prev" type="button" aria-label="Previous image"&gt;PREVIOUS&lt;/button&gt;
+ &lt;button class="slideshow__button slideshow__button--next" type="button" aria-label="Next image"&gt;NEXT&lt;/button&gt;
+ &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;h2 id="featured-poems-and-texts"&gt;Featured Poems and Texts&lt;/h2&gt;
+&lt;h3 id="john-donne-holy-sonnet-xiv"&gt;John Donne, “Holy Sonnet XIV”&lt;/h3&gt;
+&lt;section class="poetry-block poetry-block--classic-lyric poetry-block--form-holy-sonnet poetry-block--with-heading"&gt;
+&lt;header class="poetry-block__heading"&gt;
+ &lt;p class="poetry-block__title"&gt;Holy Sonnet XIV&lt;/p&gt;</description></item><item><title>Modernist Poetry and Abstraction</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-35/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-35/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
  &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
  &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Modernist poetry and abstract art.&lt;/div&gt;
 &lt;/aside&gt;
@@ -877,9 +983,9 @@
 &lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Malevich and Kandinsky"&gt;
  &lt;header class="slideshow__header"&gt;
  &lt;h2 class="slideshow__title"&gt;Malevich and Kandinsky&lt;/h2&gt;
- &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;</description></item><item><title>Motion and Machine</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-32/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
+ &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;</description></item><item><title>Motion, Machine, and Image</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-32/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
  &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
- &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Futurism and the machine age: motion, speed, war.&lt;/div&gt;
+ &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Futurism, Vorticism, and Imagism: motion, speed, machines, war, and the concentrated modern image.&lt;/div&gt;
 &lt;/aside&gt;
 
 &lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
@@ -1060,155 +1166,41 @@ but they drank it themselves through your mouth.
 
 &lt;section class="poetry-block poetry-block--long-line poetry-block--form-philosophical-poem poetry-block--with-heading"&gt;
 &lt;header class="poetry-block__heading"&gt;
- &lt;p class="poetry-block__title"&gt;Against the Fear of Death&lt;/p&gt;</description></item><item><title>Post-Impressionism</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
- &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
- &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Post-Impressionism, Fauvism, and the beginnings of Expressionism.&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
-&lt;h3 id="i-post-impressionism"&gt;I. Post-Impressionism&lt;/h3&gt;
-&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Post-Impressionism"&gt;
- &lt;header class="slideshow__header"&gt;
- &lt;h2 class="slideshow__title"&gt;Post-Impressionism&lt;/h2&gt;
- &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;
- &lt;/header&gt;
- &lt;div class="slideshow__viewport"&gt;
- &lt;div class="slideshow__track"&gt;
- 
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/van-gogh-night-cafe_hu_e6af675f1c11d4a8.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/van-gogh-night-cafe_hu_e6af675f1c11d4a8.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/van-gogh-night-cafe_hu_68c20ecff9cfa8f5.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1920px" width="1920" height="1516" alt="Vincent van Gogh, The Night Café, 1888." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/van-gogh-night-cafe.jpg" data-lightbox-alt="Vincent van Gogh, The Night Café, 1888." data-lightbox-caption="Vincent van Gogh, *The Night Café*, 1888." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Vincent van Gogh, &lt;em&gt;The Night Café&lt;/em&gt;, 1888.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/gauguin-vision-after-sermon_hu_3b0acc4a96d8d5e1.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/gauguin-vision-after-sermon_hu_3b0acc4a96d8d5e1.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/gauguin-vision-after-sermon_hu_e94ced56c940dc07.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1920px" width="1920" height="1505" alt="Paul Gauguin, Vision after the Sermon, 1888." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/gauguin-vision-after-sermon.jpg" data-lightbox-alt="Paul Gauguin, Vision after the Sermon, 1888." data-lightbox-caption="Paul Gauguin, *Vision after the Sermon*, 1888." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Paul Gauguin, &lt;em&gt;Vision after the Sermon&lt;/em&gt;, 1888.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/cezanne-basket-apples_hu_6a1cab74f7789673.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/cezanne-basket-apples_hu_6a1cab74f7789673.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/cezanne-basket-apples_hu_9bff4269a0f61161.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1920px" width="1920" height="1537" alt="Paul Cézanne, The Basket of Apples, c. 1893." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/cezanne-basket-apples.jpg" data-lightbox-alt="Paul Cézanne, The Basket of Apples, c. 1893." data-lightbox-caption="Paul Cézanne, *The Basket of Apples*, c. 1893." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Paul Cézanne, &lt;em&gt;The Basket of Apples&lt;/em&gt;, c. 1893.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/cezanne-mont-sainte-victoire-bibemus_hu_d9043c3198ff2f99.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/cezanne-mont-sainte-victoire-bibemus_hu_d9043c3198ff2f99.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/cezanne-mont-sainte-victoire-bibemus_hu_77fdab1e820d2569.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 2618px" width="2618" height="1729" alt="Paul Cézanne, Mont Sainte-Victoire Seen from the Bibémus Quarry, c. 1897." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/cezanne-mont-sainte-victoire-bibemus.jpg" data-lightbox-alt="Paul Cézanne, Mont Sainte-Victoire Seen from the Bibémus Quarry, c. 1897." data-lightbox-caption="Paul Cézanne, *Mont Sainte-Victoire Seen from the Bibémus Quarry*, c. 1897." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Paul Cézanne, &lt;em&gt;Mont Sainte-Victoire Seen from the Bibémus Quarry&lt;/em&gt;, c. 1897.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="slideshow__controls" aria-label="Slideshow controls"&gt;
- &lt;button class="slideshow__button slideshow__button--prev" type="button" aria-label="Previous image"&gt;PREVIOUS&lt;/button&gt;
- &lt;button class="slideshow__button slideshow__button--next" type="button" aria-label="Next image"&gt;NEXT&lt;/button&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;h3 id="ii-fauvism"&gt;II. Fauvism&lt;/h3&gt;
-&lt;figure class="athenaeum-image"&gt;
- &lt;div class="athenaeum-image__frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/matisse-woman-with-hat_hu_960b6c03ac886367.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/matisse-woman-with-hat_hu_960b6c03ac886367.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/matisse-woman-with-hat_hu_a44f2824a9667f5d.webp 1280w" sizes="(max-width: 760px) 100vw, 900px" style="--athenaeum-source-width: 1280px" width="1280" height="1742" alt="Henri Matisse, Woman with a Hat, 1905." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/matisse-woman-with-hat.jpg" data-lightbox-alt="Henri Matisse, Woman with a Hat, 1905." data-lightbox-caption="Henri Matisse, *Woman with a Hat*, 1905." data-lightbox-mode="single" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;&lt;figcaption&gt;Henri Matisse, &lt;em&gt;Woman with a Hat&lt;/em&gt;, 1905.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
-&lt;h3 id="iii-toward-expressionism"&gt;III. Toward Expressionism&lt;/h3&gt;
-&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Ensor, Munch, and Kirchner"&gt;
- &lt;header class="slideshow__header"&gt;
- &lt;h2 class="slideshow__title"&gt;Ensor, Munch, and Kirchner&lt;/h2&gt;
- &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;</description></item><item><title>Postwar Poetry and Abstraction</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
+ &lt;p class="poetry-block__title"&gt;Against the Fear of Death&lt;/p&gt;</description></item><item><title>Postwar Poetry and Abstraction</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
  &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
  &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Postwar abstraction and late Wallace Stevens.&lt;/div&gt;
 &lt;/aside&gt;
 
 &lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
+&lt;h3 id="prewar-precursor-mondrian"&gt;Prewar Precursor: Mondrian&lt;/h3&gt;
+&lt;figure class="athenaeum-image"&gt;
+ &lt;div class="athenaeum-image__frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/mondrian-composition-red-blue-yellow_hu_94caae6d18cfcafc.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/mondrian-composition-red-blue-yellow_hu_94caae6d18cfcafc.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/mondrian-composition-red-blue-yellow_hu_31da5c5574467bd6.webp 800w" sizes="(max-width: 760px) 100vw, 900px" style="--athenaeum-source-width: 800px" width="800" height="811" alt="Piet Mondrian, Composition II in Red, Blue, and Yellow, 1930." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/mondrian-composition-red-blue-yellow.jpg" data-lightbox-alt="Piet Mondrian, Composition II in Red, Blue, and Yellow, 1930." data-lightbox-caption="Piet Mondrian, *Composition II in Red, Blue, and Yellow*, 1930. Included here as a prewar precursor to later abstraction." data-lightbox-mode="single" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;&lt;figcaption&gt;Piet Mondrian, &lt;em&gt;Composition II in Red, Blue, and Yellow&lt;/em&gt;, 1930. Included here as a prewar precursor to later abstraction.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;h3 id="postwar-abstraction"&gt;Postwar Abstraction&lt;/h3&gt;
 &lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Postwar Abstraction"&gt;
  &lt;header class="slideshow__header"&gt;
  &lt;h2 class="slideshow__title"&gt;Postwar Abstraction&lt;/h2&gt;
- &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;
- &lt;/header&gt;
- &lt;div class="slideshow__viewport"&gt;
- &lt;div class="slideshow__track"&gt;
- 
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/mondrian-composition-red-blue-yellow_hu_94caae6d18cfcafc.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/mondrian-composition-red-blue-yellow_hu_94caae6d18cfcafc.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/mondrian-composition-red-blue-yellow_hu_31da5c5574467bd6.webp 800w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 800px" width="800" height="811" alt="Piet Mondrian, Composition II in Red, Blue, and Yellow, 1930." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/mondrian-composition-red-blue-yellow.jpg" data-lightbox-alt="Piet Mondrian, Composition II in Red, Blue, and Yellow, 1930." data-lightbox-caption="Piet Mondrian, *Composition II in Red, Blue, and Yellow*, 1930." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Piet Mondrian, &lt;em&gt;Composition II in Red, Blue, and Yellow&lt;/em&gt;, 1930.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/pollock-autumn-rhythm_hu_9bbabbd39e1c6ca8.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/pollock-autumn-rhythm_hu_9bbabbd39e1c6ca8.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/pollock-autumn-rhythm_hu_69dc04a35d36ead8.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1600px" width="1600" height="827" alt="Jackson Pollock, Autumn Rhythm (Number 30), 1950." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/pollock-autumn-rhythm.jpg" data-lightbox-alt="Jackson Pollock, Autumn Rhythm (Number 30), 1950." data-lightbox-caption="Jackson Pollock, *Autumn Rhythm (Number 30)*, 1950." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Jackson Pollock, &lt;em&gt;Autumn Rhythm (Number 30)&lt;/em&gt;, 1950.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/rothko-no-14-1960_hu_e50bf71fb644fcf4.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/rothko-no-14-1960_hu_e50bf71fb644fcf4.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/rothko-no-14-1960_hu_9514402fe5b2b304.webp 881w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 881px" width="881" height="952" alt="Mark Rothko, No. 14, 1960." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/rothko-no-14-1960.jpg" data-lightbox-alt="Mark Rothko, No. 14, 1960." data-lightbox-caption="Mark Rothko, *No. 14*, 1960." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Mark Rothko, &lt;em&gt;No. 14&lt;/em&gt;, 1960.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/agnes-martin-tree_hu_6ff13c7191e6d142.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/agnes-martin-tree_hu_6ff13c7191e6d142.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/agnes-martin-tree_hu_14300354be9c3cf8.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 2000px" width="2000" height="1995" alt="Agnes Martin, The Tree, 1964." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/agnes-martin-tree.jpg" data-lightbox-alt="Agnes Martin, The Tree, 1964." data-lightbox-caption="Agnes Martin, *The Tree*, 1964." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Agnes Martin, &lt;em&gt;The Tree&lt;/em&gt;, 1964.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="slideshow__controls" aria-label="Slideshow controls"&gt;
- &lt;button class="slideshow__button slideshow__button--prev" type="button" aria-label="Previous image"&gt;PREVIOUS&lt;/button&gt;
- &lt;button class="slideshow__button slideshow__button--next" type="button" aria-label="Next image"&gt;NEXT&lt;/button&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;h2 id="featured-poems-and-texts"&gt;Featured Poems and Texts&lt;/h2&gt;
-&lt;h3 id="the-plain-sense-of-things"&gt;The Plain Sense of Things&lt;/h3&gt;
-&lt;section class="poetry-block poetry-block--elegiac-spacious poetry-block--form-meditative-quatrains poetry-block--with-heading"&gt;
-&lt;header class="poetry-block__heading"&gt;
- &lt;p class="poetry-block__title"&gt;The Plain Sense of Things&lt;/p&gt;</description></item><item><title>Revolution and Realism</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-24/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-24/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
+ &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;</description></item><item><title>Renaissance Art from Perspective to Mannerism</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
  &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
- &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Realism: contemporary life, labor, and class.&lt;/div&gt;
+ &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Renaissance art from constructed perspective and Northern observation through High Renaissance idealism and Mannerist distortion.&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
+&lt;h3 id="early-renaissance-constructed-perspective"&gt;Early Renaissance: Constructed Perspective&lt;/h3&gt;
+&lt;p&gt;Masaccio and Uccello both construct pictorial space with linear perspective. Masaccio uses it to make the painted chapel appear to continue into the wall; Uccello makes the geometry conspicuous in the lances, fallen weapons, and foreshortened forms.&lt;/p&gt;
+&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Perspective: Masaccio and Uccello"&gt;
+ &lt;header class="slideshow__header"&gt;
+ &lt;h2 class="slideshow__title"&gt;Perspective: Masaccio and Uccello&lt;/h2&gt;
+ &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;</description></item><item><title>Revolution and Realism</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-24/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-24/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
+ &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
+ &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; From revolutionary history painting to Realism: political upheaval, contemporary life, labor, and class.&lt;/div&gt;
 &lt;/aside&gt;
 
 &lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
@@ -1274,7 +1266,7 @@ but they drank it themselves through your mouth.
 &lt;header class="poetry-block__heading"&gt;
  &lt;p class="poetry-block__title"&gt;The Cry of the Children&lt;/p&gt;</description></item><item><title>Sturm und Drang</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-19/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-19/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
  &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
- &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; &lt;em&gt;Sturm und Drang&lt;/em&gt;: Goethe, intense feeling, and rebellion against restraint.&lt;/div&gt;
+ &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; &lt;em&gt;Sturm und Drang&lt;/em&gt;: Goethe, intense feeling, and rebellion against restraint, set against Enlightenment observation and the turn toward the irrational.&lt;/div&gt;
 &lt;/aside&gt;
 
 &lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
@@ -1312,65 +1304,9 @@ but they drank it themselves through your mouth.
 &lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Symbolist Painting"&gt;
  &lt;header class="slideshow__header"&gt;
  &lt;h2 class="slideshow__title"&gt;Symbolist Painting&lt;/h2&gt;
- &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;</description></item><item><title>The Baroque</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
+ &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;</description></item><item><title>The Dutch Golden Age</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
  &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
- &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Baroque art and Donne: religion, drama, and the body.&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
-&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Baroque Art"&gt;
- &lt;header class="slideshow__header"&gt;
- &lt;h2 class="slideshow__title"&gt;Baroque Art&lt;/h2&gt;
- &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;
- &lt;/header&gt;
- &lt;div class="slideshow__viewport"&gt;
- &lt;div class="slideshow__track"&gt;
- 
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/caravaggio-calling-saint-matthew_hu_6971fac8ff8bee9f.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/caravaggio-calling-saint-matthew_hu_6971fac8ff8bee9f.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/caravaggio-calling-saint-matthew_hu_af330264878cc873.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 2400px" width="2400" height="2267" alt="Caravaggio, The Calling of Saint Matthew, 1599–1600." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/caravaggio-calling-saint-matthew.jpg" data-lightbox-alt="Caravaggio, The Calling of Saint Matthew, 1599–1600." data-lightbox-caption="Caravaggio, *The Calling of Saint Matthew*, 1599–1600." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Caravaggio, &lt;em&gt;The Calling of Saint Matthew&lt;/em&gt;, 1599–1600.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/bernini-ecstasy-saint-teresa_hu_30e6ed4a4bc1963.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/bernini-ecstasy-saint-teresa_hu_30e6ed4a4bc1963.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/bernini-ecstasy-saint-teresa_hu_7fe2870c6e417424.webp 960w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 960px" width="960" height="1280" alt="Gian Lorenzo Bernini, The Ecstasy of Saint Teresa, 1647–1652." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/bernini-ecstasy-saint-teresa.jpg" data-lightbox-alt="Gian Lorenzo Bernini, The Ecstasy of Saint Teresa, 1647–1652." data-lightbox-caption="Gian Lorenzo Bernini, *The Ecstasy of Saint Teresa*, 1647–1652." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Gian Lorenzo Bernini, &lt;em&gt;The Ecstasy of Saint Teresa&lt;/em&gt;, 1647–1652.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/rubens-elevation-cross_hu_31a737482a6164aa.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/rubens-elevation-cross_hu_31a737482a6164aa.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/rubens-elevation-cross_hu_59e416ec42c7db47.webp 847w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 847px" width="847" height="730" alt="Peter Paul Rubens, The Elevation of the Cross, 1610–1611." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/rubens-elevation-cross.jpg" data-lightbox-alt="Peter Paul Rubens, The Elevation of the Cross, 1610–1611." data-lightbox-caption="Peter Paul Rubens, *The Elevation of the Cross*, 1610–1611." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Peter Paul Rubens, &lt;em&gt;The Elevation of the Cross&lt;/em&gt;, 1610–1611.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="slideshow__controls" aria-label="Slideshow controls"&gt;
- &lt;button class="slideshow__button slideshow__button--prev" type="button" aria-label="Previous image"&gt;PREVIOUS&lt;/button&gt;
- &lt;button class="slideshow__button slideshow__button--next" type="button" aria-label="Next image"&gt;NEXT&lt;/button&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;h2 id="featured-poems-and-texts"&gt;Featured Poems and Texts&lt;/h2&gt;
-&lt;section class="poetry-block poetry-block--classic-lyric poetry-block--form-holy-sonnet poetry-block--with-heading"&gt;
-&lt;header class="poetry-block__heading"&gt;
- &lt;p class="poetry-block__title"&gt;Holy Sonnet XIV&lt;/p&gt;</description></item><item><title>The Dutch Golden Age</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
- &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
- &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Dutch painting and Marvell: objects, time, and mortality.&lt;/div&gt;
+ &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Dutch painting: domestic life, civic institutions, objects, observation, and mortality.&lt;/div&gt;
 &lt;/aside&gt;
 
 &lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
@@ -1422,9 +1358,38 @@ but they drank it themselves through your mouth.
 &lt;/section&gt;
 
 &lt;h2 id="featured-poems-and-texts"&gt;Featured Poems and Texts&lt;/h2&gt;
-&lt;section class="poetry-block poetry-block--long-line poetry-block--form-carpe-diem-lyric poetry-block--with-heading"&gt;
-&lt;header class="poetry-block__heading"&gt;
- &lt;p class="poetry-block__title"&gt;To His Coy Mistress&lt;/p&gt;</description></item><item><title>The Modern City</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-27/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-27/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
+&lt;h2 id="essential-questions"&gt;Essential Questions&lt;/h2&gt;
+&lt;details class="disclosure disclosure--advanced-questions"&gt;
+ &lt;summary class="disclosure__summary"&gt;
+ &lt;span class="disclosure__heading"&gt;Advanced Questions&lt;/span&gt;
+ &lt;span class="disclosure__toggle" aria-hidden="true"&gt;
+ &lt;span class="disclosure__toggle-show"&gt;Show&lt;/span&gt;
+ &lt;span class="disclosure__toggle-hide"&gt;Hide&lt;/span&gt;
+ &lt;/span&gt;
+ &lt;/summary&gt;
+ &lt;div class="disclosure__body"&gt;&lt;/div&gt;
+&lt;/details&gt;
+
+
+&lt;h2 id="vocabulary"&gt;Vocabulary&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Vanitas&lt;/strong&gt; — a still life using symbolic objects to remind the viewer of mortality and the transience of worldly goods&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Memento mori&lt;/strong&gt; — an image or object intended as a reminder of death&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="additional-poems-and-texts"&gt;Additional Poems and Texts&lt;/h2&gt;
+&lt;details class="disclosure disclosure--teacher-notes"&gt;
+ &lt;summary class="disclosure__summary"&gt;
+ &lt;span class="disclosure__heading"&gt;Teacher notes&lt;/span&gt;
+ &lt;span class="disclosure__toggle" aria-hidden="true"&gt;
+ &lt;span class="disclosure__toggle-show"&gt;Show&lt;/span&gt;
+ &lt;span class="disclosure__toggle-hide"&gt;Hide&lt;/span&gt;
+ &lt;/span&gt;
+ &lt;/summary&gt;
+ &lt;div class="disclosure__body"&gt;&lt;ul&gt;
+&lt;li&gt;Keep the Unit centered on Dutch visual culture rather than treating English Metaphysical poets as part of the Dutch Golden Age.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/details&gt;</description></item><item><title>The Modern City</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-27/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-27/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
  &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
  &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Baudelaire and Whitman on the modern city.&lt;/div&gt;
 &lt;/aside&gt;
@@ -1744,7 +1709,7 @@ but they drank it themselves through your mouth.
  &lt;h2 class="slideshow__title"&gt;Photography and Painting&lt;/h2&gt;
  &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;</description></item><item><title>World War I</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
  &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
- &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; World War I: industrial warfare in poetry and visual art.&lt;/div&gt;
+ &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; World War I in poetry and visual art, followed by the later political assault on the modernism that surrounded and followed the war.&lt;/div&gt;
 &lt;/aside&gt;
 
 &lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
