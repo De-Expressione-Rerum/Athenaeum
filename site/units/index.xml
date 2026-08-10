@@ -65,13 +65,14 @@
 &lt;h3 id="everyman"&gt;&lt;em&gt;Everyman&lt;/em&gt;&lt;/h3&gt;
 &lt;p&gt;Everyman is summoned to give account before God. Fellowship, Kindred, Goods, Beauty, Strength, and Knowledge fail him; Good Deeds alone can go with him.&lt;/p&gt;</description></item><item><title>Art and Empire</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-26/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-26/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
  &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
- &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Art, literature, and empire: Egypt, India, and British imperial culture.&lt;/div&gt;
+ &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Nineteenth-century images of empire, including British India and the work of Sita Ram.&lt;/div&gt;
 &lt;/aside&gt;
 
 &lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
-&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Art and Empire"&gt;
+&lt;h3 id="european-images-of-empire"&gt;European Images of Empire&lt;/h3&gt;
+&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Europe, North Africa, and Empire"&gt;
  &lt;header class="slideshow__header"&gt;
- &lt;h2 class="slideshow__title"&gt;Art and Empire&lt;/h2&gt;
+ &lt;h2 class="slideshow__title"&gt;Europe, North Africa, and Empire&lt;/h2&gt;
  &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;
  &lt;/header&gt;
  &lt;div class="slideshow__viewport"&gt;
@@ -125,6 +126,17 @@
  &lt;button class="slideshow__button slideshow__button--next" type="button" aria-label="Next image"&gt;NEXT&lt;/button&gt;
  &lt;/div&gt;
 &lt;/section&gt;
+
+&lt;h3 id="british-india"&gt;British India&lt;/h3&gt;
+&lt;figure class="athenaeum-image"&gt;
+ &lt;div class="athenaeum-image__frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-26/sita-ram-motijhil_hu_1a09fc98f6cb3a11.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-26/sita-ram-motijhil_hu_1a09fc98f6cb3a11.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-26/sita-ram-motijhil_hu_dc8fe97b17bbbdaf.webp 1200w" sizes="(max-width: 760px) 100vw, 900px" style="--athenaeum-source-width: 1200px" width="1200" height="816" alt="Sita Ram, View of a Mosque and Gateway at Motijhil, c. 1814–1823." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-26/sita-ram-motijhil.jpg" data-lightbox-alt="Sita Ram, View of a Mosque and Gateway at Motijhil, c. 1814–1823." data-lightbox-caption="Attributed to Sita Ram, *View of a Mosque and Gateway at Motijhil*, c. 1814–1823. Opaque watercolor on paper, made in Bengal. Metropolitan Museum of Art. Public Domain." data-lightbox-mode="single" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;&lt;figcaption&gt;Attributed to Sita Ram, &lt;em&gt;View of a Mosque and Gateway at Motijhil&lt;/em&gt;, c. 1814–1823. Opaque watercolor on paper, made in Bengal. Metropolitan Museum of Art. Public Domain.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
 
 &lt;h2 id="featured-poems-and-texts"&gt;Featured Poems and Texts&lt;/h2&gt;
 &lt;section class="poetry-block poetry-block--classic-lyric poetry-block--form-sonnet poetry-block--with-heading"&gt;
@@ -259,7 +271,7 @@
 
 &lt;h2 id="featured-poems-and-texts"&gt;Featured Poems and Texts&lt;/h2&gt;
 &lt;h3 id="the-grail-procession-and-the-unasked-question"&gt;The Grail Procession and the Unasked Question&lt;/h3&gt;
-&lt;p&gt;Perceval has been taught not to ask too many questions. At the Fisher King’s castle he sees the Grail procession and stays silent.&lt;/p&gt;</description></item><item><title>Courtly Life</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-07/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-07/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
+&lt;p&gt;Perceval has been taught not to ask too many questions. At the Fisher King’s castle he sees the Grail procession and stays silent.&lt;/p&gt;</description></item><item><title>Courtly Worlds</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-07/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-07/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
  &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
  &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Courtship and indirect speech in &lt;em&gt;The Tale of Genji&lt;/em&gt; and troubadour lyric.&lt;/div&gt;
 &lt;/aside&gt;
@@ -521,14 +533,24 @@
 &lt;/aside&gt;
 
 &lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
-&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Greek Funerary Memorials"&gt;
+&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Funerary Memorials"&gt;
  &lt;header class="slideshow__header"&gt;
- &lt;h2 class="slideshow__title"&gt;Greek Funerary Memorials&lt;/h2&gt;
+ &lt;h2 class="slideshow__title"&gt;Funerary Memorials&lt;/h2&gt;
  &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;
  &lt;/header&gt;
  &lt;div class="slideshow__viewport"&gt;
  &lt;div class="slideshow__track"&gt;
  
+&lt;figure class="slideshow__slide"&gt;
+ &lt;div class="slideshow__image-frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-06/greek-stele-young-girl_hu_be8e6f02bdd4c6cb.webp" style="--athenaeum-source-width: 549px" width="549" height="700" alt="Greek marble grave stele of a young girl, c. 440–425 BCE." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-06/greek-stele-young-girl.jpg" data-lightbox-alt="Greek marble grave stele of a young girl, c. 440–425 BCE." data-lightbox-caption="*Marble stele (grave marker) of a young girl*, Greek, Boeotian, c. 440–425 BCE. Metropolitan Museum of Art. Public Domain." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;figcaption&gt;&lt;em&gt;Marble stele (grave marker) of a young girl&lt;/em&gt;, Greek, Boeotian, c. 440–425 BCE. Metropolitan Museum of Art. Public Domain.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;figure class="slideshow__slide"&gt;
  &lt;div class="slideshow__image-frame"&gt;
  &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-06/grave-stele-of-hegeso_hu_65ffdd7d9dedf81e.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-06/grave-stele-of-hegeso_hu_65ffdd7d9dedf81e.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-06/grave-stele-of-hegeso_hu_28aaa83156f7e351.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1920px" width="1920" height="2880" alt="The Grave Stele of Hegeso, c. 410–400 BCE." loading="lazy" decoding="async"&gt;
@@ -549,6 +571,16 @@
  &lt;figcaption&gt;&lt;em&gt;Grave Stele of Dexileos&lt;/em&gt;, 394–393 BCE. Marble relief. Photograph by George E. Koronaios, CC BY-SA 4.0.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
+&lt;figure class="slideshow__slide"&gt;
+ &lt;div class="slideshow__image-frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-06/roman-funerary-altar_hu_e807d555e576344e.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-06/roman-funerary-altar_hu_e807d555e576344e.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-06/roman-funerary-altar_hu_5a867c9d5412583a.webp 1200w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1200px" width="1200" height="900" alt="Roman marble funerary altar of Anthus, first half of the first century CE." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-06/roman-funerary-altar.jpg" data-lightbox-alt="Roman marble funerary altar of Anthus, first half of the first century CE." data-lightbox-caption="*Marble funerary altar of Anthus*, Roman, first half of the first century CE. Metropolitan Museum of Art. Public Domain." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;figcaption&gt;&lt;em&gt;Marble funerary altar of Anthus&lt;/em&gt;, Roman, first half of the first century CE. Metropolitan Museum of Art. Public Domain.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
 
  &lt;/div&gt;
  &lt;/div&gt;
@@ -561,79 +593,40 @@
 &lt;h2 id="featured-poems-and-texts"&gt;Featured Poems and Texts&lt;/h2&gt;
 &lt;section class="poetry-block poetry-block--classic-lyric poetry-block--form-elegy poetry-block--with-heading"&gt;
 &lt;header class="poetry-block__heading"&gt;
- &lt;p class="poetry-block__title"&gt;Catullus 101&lt;/p&gt;</description></item><item><title>Gothic Art and Pilgrimage</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
+ &lt;p class="poetry-block__title"&gt;Catullus 101&lt;/p&gt;</description></item><item><title>From Rococo to Revolution</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
  &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
- &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Pilgrimage and sacred space in Gothic art, Dante, and Chaucer.&lt;/div&gt;
+ &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; The shift from Rococo to Neoclassicism, with political art from the American and French Revolutions.&lt;/div&gt;
 &lt;/aside&gt;
 
 &lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
-&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Sacred Space and Pilgrimage"&gt;
+&lt;h3 id="rococo-and-polite-society"&gt;Rococo and Polite Society&lt;/h3&gt;
+&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Rococo and Portraiture"&gt;
  &lt;header class="slideshow__header"&gt;
- &lt;h2 class="slideshow__title"&gt;Sacred Space and Pilgrimage&lt;/h2&gt;
+ &lt;h2 class="slideshow__title"&gt;Rococo and Portraiture&lt;/h2&gt;
  &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;
  &lt;/header&gt;
  &lt;div class="slideshow__viewport"&gt;
  &lt;div class="slideshow__track"&gt;
  
-	&lt;figure class="slideshow__slide"&gt;
-	 &lt;div class="slideshow__image-frame"&gt;
-	 &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/gislebertus-last-judgment-autun_hu_3b705db1d6b47823.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/gislebertus-last-judgment-autun_hu_3b705db1d6b47823.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/gislebertus-last-judgment-autun_hu_dca6f86f5d907177.webp 1158w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1158px" width="1158" height="802" alt="Gislebertus, Last Judgment, west tympanum of Autun Cathedral, c. 1130." loading="lazy" decoding="async"&gt;
-	 &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/gislebertus-last-judgment-autun.jpg" data-lightbox-alt="Gislebertus, Last Judgment, west tympanum of Autun Cathedral, c. 1130." data-lightbox-caption="Gislebertus, *Last Judgment*, west tympanum of Autun Cathedral, c. 1130." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
-	 &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
-	 &lt;/button&gt;
-	 &lt;/div&gt;
-	 &lt;figcaption&gt;Gislebertus, &lt;em&gt;Last Judgment&lt;/em&gt;, west tympanum of Autun Cathedral, c. 1130.&lt;/figcaption&gt;
-	&lt;/figure&gt;
+&lt;figure class="slideshow__slide"&gt;
+ &lt;div class="slideshow__image-frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/fragonard-swing_hu_efca9a5f86ab427d.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/fragonard-swing_hu_efca9a5f86ab427d.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/fragonard-swing_hu_595fb947b480e85d.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 2214px" width="2214" height="2600" alt="Jean-Honoré Fragonard, The Swing, 1767." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/fragonard-swing.jpg" data-lightbox-alt="Jean-Honoré Fragonard, The Swing, 1767." data-lightbox-caption="Jean-Honoré Fragonard, *The Swing*, 1767." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;figcaption&gt;Jean-Honoré Fragonard, &lt;em&gt;The Swing&lt;/em&gt;, 1767.&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-	&lt;figure class="slideshow__slide"&gt;
-	 &lt;div class="slideshow__image-frame"&gt;
-	 &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/chartres-royal-portal_hu_d759489817d773ca.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/chartres-royal-portal_hu_d759489817d773ca.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/chartres-royal-portal_hu_b40d407dae8bd51a.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1920px" width="1920" height="2494" alt="The central doorway of the Royal Portal at Chartres Cathedral, with Christ in Majesty above column figures." loading="lazy" decoding="async"&gt;
-	 &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/chartres-royal-portal.jpg" data-lightbox-alt="The central doorway of the Royal Portal at Chartres Cathedral, with Christ in Majesty above column figures." data-lightbox-caption="Central doorway of the Royal Portal, Chartres Cathedral, c. 1145–1155. Historical photograph showing the central portal and portions of the flanking doorways." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
-	 &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
-	 &lt;/button&gt;
-	 &lt;/div&gt;
-	 &lt;figcaption&gt;Central doorway of the Royal Portal, Chartres Cathedral, c. 1145–1155. Historical photograph showing the central portal and portions of the flanking doorways.&lt;/figcaption&gt;
-	&lt;/figure&gt;
-
-	&lt;figure class="slideshow__slide"&gt;
-	 &lt;div class="slideshow__image-frame"&gt;
-	 &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/chartres-nave_hu_7df081d91a5f4ee2.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/chartres-nave_hu_7df081d91a5f4ee2.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/chartres-nave_hu_e6f9c61501816c42.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 2400px" width="2400" height="1800" alt="The three-part nave elevation at Chartres Cathedral: arcade, triforium, and clerestory." loading="lazy" decoding="async"&gt;
-	 &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/chartres-nave.jpg" data-lightbox-alt="The three-part nave elevation at Chartres Cathedral: arcade, triforium, and clerestory." data-lightbox-caption="Three-part nave elevation at Chartres Cathedral: arcade, triforium, and clerestory, principally rebuilt after 1194." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
-	 &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
-	 &lt;/button&gt;
-	 &lt;/div&gt;
-	 &lt;figcaption&gt;Three-part nave elevation at Chartres Cathedral: arcade, triforium, and clerestory, principally rebuilt after 1194.&lt;/figcaption&gt;
-	&lt;/figure&gt;
-
-	&lt;figure class="slideshow__slide"&gt;
-	 &lt;div class="slideshow__image-frame"&gt;
-	 &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/chartres-belle-verriere_hu_20f19ba0491647e5.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/chartres-belle-verriere_hu_20f19ba0491647e5.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/chartres-belle-verriere_hu_91850e4ca888cd86.webp 1183w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1183px" width="1183" height="3185" alt="Notre-Dame de la Belle Verrière stained-glass window at Chartres Cathedral." loading="lazy" decoding="async"&gt;
-	 &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/chartres-belle-verriere.jpg" data-lightbox-alt="Notre-Dame de la Belle Verrière stained-glass window at Chartres Cathedral." data-lightbox-caption="*Notre-Dame de la Belle Verrière*, Chartres Cathedral, late twelfth century with thirteenth-century additions." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
-	 &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
-	 &lt;/button&gt;
-	 &lt;/div&gt;
-	 &lt;figcaption&gt;&lt;em&gt;Notre-Dame de la Belle Verrière&lt;/em&gt;, Chartres Cathedral, late twelfth century with thirteenth-century additions.&lt;/figcaption&gt;
-	&lt;/figure&gt;
-
-	&lt;figure class="slideshow__slide"&gt;
-	 &lt;div class="slideshow__image-frame"&gt;
-	 &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/thomas-becket-pilgrim-badge_hu_702492a95a9e64b2.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/thomas-becket-pilgrim-badge_hu_702492a95a9e64b2.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/thomas-becket-pilgrim-badge_hu_31d57693b3a9914.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1809px" width="1809" height="1917" alt="A medieval pilgrim badge from the shrine of Thomas Becket at Canterbury." loading="lazy" decoding="async"&gt;
-	 &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/thomas-becket-pilgrim-badge.jpg" data-lightbox-alt="A medieval pilgrim badge from the shrine of Thomas Becket at Canterbury." data-lightbox-caption="Pilgrim badge from the shrine of Thomas Becket at Canterbury, medieval lead-alloy devotional object." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
-	 &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
-	 &lt;/button&gt;
-	 &lt;/div&gt;
-	 &lt;figcaption&gt;Pilgrim badge from the shrine of Thomas Becket at Canterbury, medieval lead-alloy devotional object.&lt;/figcaption&gt;
-	&lt;/figure&gt;
-
-	&lt;figure class="slideshow__slide"&gt;
-	 &lt;div class="slideshow__image-frame"&gt;
-	 &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/botticelli-map-of-hell_hu_5aa0293b60fa3f5.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/botticelli-map-of-hell_hu_5aa0293b60fa3f5.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/botticelli-map-of-hell_hu_1f26836aa7ba040e.webp 800w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 800px" width="800" height="559" alt="Sandro Botticelli, Map of Hell, c. 1480–1490." loading="lazy" decoding="async"&gt;
-	 &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/botticelli-map-of-hell.jpg" data-lightbox-alt="Sandro Botticelli, Map of Hell, c. 1480–1490." data-lightbox-caption="Sandro Botticelli, *Map of Hell*, c. 1480–1490." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
-	 &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
-	 &lt;/button&gt;
-	 &lt;/div&gt;
-	 &lt;figcaption&gt;Sandro Botticelli, &lt;em&gt;Map of Hell&lt;/em&gt;, c. 1480–1490.&lt;/figcaption&gt;
-	&lt;/figure&gt;
+&lt;figure class="slideshow__slide"&gt;
+ &lt;div class="slideshow__image-frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/reynolds-mrs-siddons-tragic-muse_hu_385d3171e5efc092.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/reynolds-mrs-siddons-tragic-muse_hu_385d3171e5efc092.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/reynolds-mrs-siddons-tragic-muse_hu_5aa80200afd3e358.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1621px" width="1621" height="2600" alt="Joshua Reynolds, Mrs Siddons as the Tragic Muse, 1784." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/reynolds-mrs-siddons-tragic-muse.jpg" data-lightbox-alt="Joshua Reynolds, Mrs Siddons as the Tragic Muse, 1784." data-lightbox-caption="Joshua Reynolds, *Mrs Siddons as the Tragic Muse*, 1784." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;figcaption&gt;Joshua Reynolds, &lt;em&gt;Mrs Siddons as the Tragic Muse&lt;/em&gt;, 1784.&lt;/figcaption&gt;
+&lt;/figure&gt;
 
 
  &lt;/div&gt;
@@ -644,22 +637,103 @@
  &lt;/div&gt;
 &lt;/section&gt;
 
-&lt;h2 id="featured-poems-and-texts"&gt;Featured Poems and Texts&lt;/h2&gt;
-&lt;h3 id="dante-inferno-iii"&gt;Dante, &lt;em&gt;Inferno&lt;/em&gt; III&lt;/h3&gt;
-&lt;p&gt;Dante and Virgil: gate → the neutrals → Acheron and Charon.&lt;/p&gt;</description></item><item><title>High Renaissance to Mannerism</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
+&lt;h3 id="neoclassicism-and-revolution"&gt;Neoclassicism and Revolution&lt;/h3&gt;
+&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="David and Revolutionary Public Art"&gt;
+ &lt;header class="slideshow__header"&gt;
+ &lt;h2 class="slideshow__title"&gt;David and Revolutionary Public Art&lt;/h2&gt;
+ &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;</description></item><item><title>Gothic Art and Pilgrimage</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
  &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
- &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; High Renaissance and Mannerism.&lt;/div&gt;
+ &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Pilgrimage and sacred space in Gothic art, Dante, and Chaucer.&lt;/div&gt;
 &lt;/aside&gt;
 
 &lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
-&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Renaissance and Mannerism"&gt;
+&lt;h3 id="gothic-architecture-a-visual-survey"&gt;Gothic Architecture: A Visual Survey&lt;/h3&gt;
+&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Gothic Architectural Language"&gt;
  &lt;header class="slideshow__header"&gt;
- &lt;h2 class="slideshow__title"&gt;Renaissance and Mannerism&lt;/h2&gt;
+ &lt;h2 class="slideshow__title"&gt;Gothic Architectural Language&lt;/h2&gt;
  &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;
  &lt;/header&gt;
  &lt;div class="slideshow__viewport"&gt;
  &lt;div class="slideshow__track"&gt;
  
+&lt;figure class="slideshow__slide"&gt;
+ &lt;div class="slideshow__image-frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/gothic-cathedral-parts-chartres_hu_73feadc81202ab88.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/gothic-cathedral-parts-chartres_hu_73feadc81202ab88.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/gothic-cathedral-parts-chartres_hu_920298effe037626.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1638px" width="1638" height="1899" alt="Diagram identifying major parts of a Gothic cathedral using Chartres Cathedral." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/gothic-cathedral-parts-chartres.jpg" data-lightbox-alt="Diagram identifying major parts of a Gothic cathedral using Chartres Cathedral." data-lightbox-caption="Chartres Cathedral: labeled diagram of major architectural parts. Diagram by MathKnight and Zachi Evenor, CC BY-SA 3.0." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;figcaption&gt;Chartres Cathedral: labeled diagram of major architectural parts. Diagram by MathKnight and Zachi Evenor, CC BY-SA 3.0.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class="slideshow__slide"&gt;
+ &lt;div class="slideshow__image-frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/chartres-triforium-clerestory_hu_f680ff548991ddba.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/chartres-triforium-clerestory_hu_f680ff548991ddba.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/chartres-triforium-clerestory_hu_e7a965cf7a800fd7.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 2560px" width="2560" height="1920" alt="Interior elevation of Chartres Cathedral showing arcade, triforium, and clerestory." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/chartres-triforium-clerestory.jpg" data-lightbox-alt="Interior elevation of Chartres Cathedral showing arcade, triforium, and clerestory." data-lightbox-caption="Chartres Cathedral nave elevation: arcade, triforium, and clerestory. Photograph by BjörnT, Public Domain." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;figcaption&gt;Chartres Cathedral nave elevation: arcade, triforium, and clerestory. Photograph by BjörnT, Public Domain.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class="slideshow__slide"&gt;
+ &lt;div class="slideshow__image-frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/reims-cathedral-nave-rib-vaults_hu_97540047530e6855.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/reims-cathedral-nave-rib-vaults_hu_97540047530e6855.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/reims-cathedral-nave-rib-vaults_hu_feb0b476bacc0c86.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 3888px" width="3888" height="5575" alt="Nave of Reims Cathedral showing pointed arches and rib vaults." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/reims-cathedral-nave-rib-vaults.jpg" data-lightbox-alt="Nave of Reims Cathedral showing pointed arches and rib vaults." data-lightbox-caption="Reims Cathedral nave: pointed arches and rib vaulting. Photograph by Ad Meskens, CC BY-SA 4.0." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;figcaption&gt;Reims Cathedral nave: pointed arches and rib vaulting. Photograph by Ad Meskens, CC BY-SA 4.0.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class="slideshow__slide"&gt;
+ &lt;div class="slideshow__image-frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/chartres-flying-buttresses_hu_a813d9524c7320e2.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/chartres-flying-buttresses_hu_a813d9524c7320e2.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/chartres-flying-buttresses_hu_3026e2e109b63e76.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 3452px" width="3452" height="2268" alt="Exterior of Chartres Cathedral showing flying buttresses." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/chartres-flying-buttresses.jpg" data-lightbox-alt="Exterior of Chartres Cathedral showing flying buttresses." data-lightbox-caption="Chartres Cathedral: flying buttresses on the north side. Photograph by Andreas F. Borchert, CC BY-SA 4.0." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;figcaption&gt;Chartres Cathedral: flying buttresses on the north side. Photograph by Andreas F. Borchert, CC BY-SA 4.0.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="slideshow__controls" aria-label="Slideshow controls"&gt;
+ &lt;button class="slideshow__button slideshow__button--prev" type="button" aria-label="Previous image"&gt;PREVIOUS&lt;/button&gt;
+ &lt;button class="slideshow__button slideshow__button--next" type="button" aria-label="Next image"&gt;NEXT&lt;/button&gt;
+ &lt;/div&gt;
+&lt;/section&gt;
+
+&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Sacred Space and Pilgrimage"&gt;
+ &lt;header class="slideshow__header"&gt;
+ &lt;h2 class="slideshow__title"&gt;Sacred Space and Pilgrimage&lt;/h2&gt;
+ &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;</description></item><item><title>High Renaissance to Mannerism</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
+ &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
+ &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; High Renaissance and Mannerism.&lt;/div&gt;
+&lt;/aside&gt;
+
+&lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
+&lt;h3 id="constructed-perspective"&gt;Constructed Perspective&lt;/h3&gt;
+&lt;p&gt;Masaccio and Uccello both construct pictorial space with linear perspective. Masaccio uses it to make the painted chapel appear to continue into the wall; Uccello makes the geometry conspicuous in the lances, fallen weapons, and foreshortened forms.&lt;/p&gt;
+&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Perspective: Masaccio and Uccello"&gt;
+ &lt;header class="slideshow__header"&gt;
+ &lt;h2 class="slideshow__title"&gt;Perspective: Masaccio and Uccello&lt;/h2&gt;
+ &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;
+ &lt;/header&gt;
+ &lt;div class="slideshow__viewport"&gt;
+ &lt;div class="slideshow__track"&gt;
+ 
+&lt;figure class="slideshow__slide"&gt;
+ &lt;div class="slideshow__image-frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/masaccio-holy-trinity_hu_a50522b68bcc1c06.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/masaccio-holy-trinity_hu_a50522b68bcc1c06.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/masaccio-holy-trinity_hu_9e253285c70663ea.webp 800w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 800px" width="800" height="1485" alt="Masaccio, Holy Trinity, c. 1425–1428." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/masaccio-holy-trinity.jpg" data-lightbox-alt="Masaccio, Holy Trinity, c. 1425–1428." data-lightbox-caption="Masaccio, *Holy Trinity*, c. 1425–1428. Fresco, Santa Maria Novella, Florence. Public Domain." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;figcaption&gt;Masaccio, &lt;em&gt;Holy Trinity&lt;/em&gt;, c. 1425–1428. Fresco, Santa Maria Novella, Florence. Public Domain.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
 &lt;figure class="slideshow__slide"&gt;
  &lt;div class="slideshow__image-frame"&gt;
  &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/uccello-battle-san-romano-london_hu_efd680d6db4559cf.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/uccello-battle-san-romano-london_hu_efd680d6db4559cf.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/uccello-battle-san-romano-london_hu_bed48fc8c7ce18c2.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 6074px" width="6074" height="3435" alt="Paolo Uccello, The Battle of San Romano, London panel, c. 1438–1440." loading="lazy" decoding="async"&gt;
@@ -670,56 +744,6 @@
  &lt;figcaption&gt;Paolo Uccello, &lt;em&gt;The Battle of San Romano&lt;/em&gt; (London panel), c. 1438–1440.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/raphael-school-athens_hu_a43c2aef7e79039.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/raphael-school-athens_hu_a43c2aef7e79039.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/raphael-school-athens_hu_4f6fa2d20be0d32d.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 3697px" width="3697" height="2414" alt="Raphael, The School of Athens, 1509–1511." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/raphael-school-athens.jpg" data-lightbox-alt="Raphael, The School of Athens, 1509–1511." data-lightbox-caption="Raphael, *The School of Athens*, 1509–1511." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Raphael, &lt;em&gt;The School of Athens&lt;/em&gt;, 1509–1511.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/michelangelo-last-judgment_hu_4a686fe43963061f.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/michelangelo-last-judgment_hu_4a686fe43963061f.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/michelangelo-last-judgment_hu_dc309c0ac77fbe9d.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1920px" width="1920" height="2114" alt="Michelangelo, The Last Judgment, 1536–1541." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/michelangelo-last-judgment.jpg" data-lightbox-alt="Michelangelo, The Last Judgment, 1536–1541." data-lightbox-caption="Michelangelo, *The Last Judgment*, 1536–1541." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Michelangelo, &lt;em&gt;The Last Judgment&lt;/em&gt;, 1536–1541.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/pontormo-deposition_hu_d5127b7dd6399d85.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/pontormo-deposition_hu_d5127b7dd6399d85.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/pontormo-deposition_hu_2efbd1bfc261375.webp 900w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 900px" width="900" height="1480" alt="Pontormo, The Deposition, 1525–1528." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/pontormo-deposition.jpg" data-lightbox-alt="Pontormo, The Deposition, 1525–1528." data-lightbox-caption="Pontormo, *The Deposition*, 1525–1528." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Pontormo, &lt;em&gt;The Deposition&lt;/em&gt;, 1525–1528.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/parmigianino-madonna-long-neck_hu_713e4fcb477c5ce.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/parmigianino-madonna-long-neck_hu_713e4fcb477c5ce.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/parmigianino-madonna-long-neck_hu_4b127b4ee1737a20.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 2024px" width="2024" height="3325" alt="Parmigianino, Madonna of the Long Neck, 1534–1540." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/parmigianino-madonna-long-neck.jpg" data-lightbox-alt="Parmigianino, Madonna of the Long Neck, 1534–1540." data-lightbox-caption="Parmigianino, *Madonna of the Long Neck*, 1534–1540." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Parmigianino, &lt;em&gt;Madonna of the Long Neck&lt;/em&gt;, 1534–1540.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/bronzino-allegory-venus-cupid_hu_2d3248293c5e5aae.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/bronzino-allegory-venus-cupid_hu_2d3248293c5e5aae.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/bronzino-allegory-venus-cupid_hu_95b784324de214cb.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1920px" width="1920" height="2423" alt="Bronzino, An Allegory with Venus and Cupid, c. 1545." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-13/bronzino-allegory-venus-cupid.jpg" data-lightbox-alt="Bronzino, An Allegory with Venus and Cupid, c. 1545." data-lightbox-caption="Bronzino, *An Allegory with Venus and Cupid*, c. 1545." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Bronzino, &lt;em&gt;An Allegory with Venus and Cupid&lt;/em&gt;, c. 1545.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
 
  &lt;/div&gt;
  &lt;/div&gt;
@@ -729,9 +753,10 @@
  &lt;/div&gt;
 &lt;/section&gt;
 
-&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Gethsemane: Mantegna and El Greco"&gt;
+&lt;h3 id="high-renaissance"&gt;High Renaissance&lt;/h3&gt;
+&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="High Renaissance"&gt;
  &lt;header class="slideshow__header"&gt;
- &lt;h2 class="slideshow__title"&gt;Gethsemane: Mantegna and El Greco&lt;/h2&gt;
+ &lt;h2 class="slideshow__title"&gt;High Renaissance&lt;/h2&gt;
  &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;</description></item><item><title>Impressionism and Pointillism</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-28/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-28/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
  &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
  &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Impressionism and Pointillism: light, color, modern life.&lt;/div&gt;
@@ -821,9 +846,9 @@
 
 &lt;section class="poetry-block poetry-block--classic-lyric poetry-block--form-lyric-fragment poetry-block--with-heading"&gt;
 &lt;header class="poetry-block__heading"&gt;
- &lt;p class="poetry-block__title"&gt;Fragment 31&lt;/p&gt;</description></item><item><title>Modernism</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-35/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-35/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
+ &lt;p class="poetry-block__title"&gt;Fragment 31&lt;/p&gt;</description></item><item><title>Modernist Poetry and Abstraction</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-35/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-35/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
  &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
- &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Modernist experiments in poetry, typography, and abstraction.&lt;/div&gt;
+ &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Modernist poetry and abstract art.&lt;/div&gt;
 &lt;/aside&gt;
 
 &lt;h2 id="featured-artwork"&gt;Featured Artwork&lt;/h2&gt;
@@ -837,9 +862,21 @@
 &lt;/figure&gt;
 
 
-&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Typography and Abstraction"&gt;
+&lt;h3 id="word-and-image"&gt;Word and Image&lt;/h3&gt;
+&lt;figure class="athenaeum-image"&gt;
+ &lt;div class="athenaeum-image__frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-35/delaunay-cendrars-prose-transsiberien_hu_86c43801ccbd17ef.webp" style="--athenaeum-source-width: 330px" width="330" height="1725" alt="Sonia Delaunay and Blaise Cendrars, La Prose du Transsibérien, 1913." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-35/delaunay-cendrars-prose-transsiberien.jpg" data-lightbox-alt="Sonia Delaunay and Blaise Cendrars, La Prose du Transsibérien, 1913." data-lightbox-caption="Sonia Delaunay and Blaise Cendrars, *La Prose du Transsibérien et de la petite Jehanne de France*, 1913." data-lightbox-mode="single" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;&lt;figcaption&gt;Sonia Delaunay and Blaise Cendrars, &lt;em&gt;La Prose du Transsibérien et de la petite Jehanne de France&lt;/em&gt;, 1913.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;h3 id="abstraction"&gt;Abstraction&lt;/h3&gt;
+&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Malevich and Kandinsky"&gt;
  &lt;header class="slideshow__header"&gt;
- &lt;h2 class="slideshow__title"&gt;Typography and Abstraction&lt;/h2&gt;
+ &lt;h2 class="slideshow__title"&gt;Malevich and Kandinsky&lt;/h2&gt;
  &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;</description></item><item><title>Motion and Machine</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-32/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-32/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
  &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
  &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Futurism and the machine age: motion, speed, war.&lt;/div&gt;
@@ -950,73 +987,7 @@
 &lt;h2 id="featured-poems-and-texts"&gt;Featured Poems and Texts&lt;/h2&gt;
 &lt;section class="poetry-block poetry-block--long-line poetry-block--form-blank-verse poetry-block--with-heading"&gt;
 &lt;header class="poetry-block__heading"&gt;
- &lt;p class="poetry-block__title"&gt;Lines Composed a Few Miles above Tintern Abbey&lt;/p&gt;</description></item><item><title>Neoclassicism and Revolution</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
- &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
- &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Rococo, Neoclassicism, and the French Revolution.&lt;/div&gt;
-&lt;/aside&gt;
-
-&lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
-&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Rococo and Neoclassicism"&gt;
- &lt;header class="slideshow__header"&gt;
- &lt;h2 class="slideshow__title"&gt;Rococo and Neoclassicism&lt;/h2&gt;
- &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;
- &lt;/header&gt;
- &lt;div class="slideshow__viewport"&gt;
- &lt;div class="slideshow__track"&gt;
- 
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/fragonard-swing_hu_efca9a5f86ab427d.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/fragonard-swing_hu_efca9a5f86ab427d.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/fragonard-swing_hu_595fb947b480e85d.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 2214px" width="2214" height="2600" alt="Jean-Honoré Fragonard, The Swing, 1767." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/fragonard-swing.jpg" data-lightbox-alt="Jean-Honoré Fragonard, The Swing, 1767." data-lightbox-caption="Jean-Honoré Fragonard, *The Swing*, 1767." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Jean-Honoré Fragonard, &lt;em&gt;The Swing&lt;/em&gt;, 1767.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/reynolds-mrs-siddons-tragic-muse_hu_385d3171e5efc092.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/reynolds-mrs-siddons-tragic-muse_hu_385d3171e5efc092.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/reynolds-mrs-siddons-tragic-muse_hu_5aa80200afd3e358.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1621px" width="1621" height="2600" alt="Joshua Reynolds, Mrs Siddons as the Tragic Muse, 1784." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/reynolds-mrs-siddons-tragic-muse.jpg" data-lightbox-alt="Joshua Reynolds, Mrs Siddons as the Tragic Muse, 1784." data-lightbox-caption="Joshua Reynolds, *Mrs Siddons as the Tragic Muse*, 1784." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Joshua Reynolds, &lt;em&gt;Mrs Siddons as the Tragic Muse&lt;/em&gt;, 1784.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/david-oath-horatii_hu_b9c7a5c6c44af803.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/david-oath-horatii_hu_b9c7a5c6c44af803.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/david-oath-horatii_hu_6c8f9f4b8f44f428.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 2600px" width="2600" height="2027" alt="Jacques-Louis David, The Oath of the Horatii, 1784." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/david-oath-horatii.jpg" data-lightbox-alt="Jacques-Louis David, The Oath of the Horatii, 1784." data-lightbox-caption="Jacques-Louis David, *The Oath of the Horatii*, 1784." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Jacques-Louis David, &lt;em&gt;The Oath of the Horatii&lt;/em&gt;, 1784.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/david-death-marat_hu_1efc302c75bc49c1.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/david-death-marat_hu_1efc302c75bc49c1.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/david-death-marat_hu_b2bb875a2f101386.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1920px" width="1920" height="2474" alt="Jacques-Louis David, The Death of Marat, 1793." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/david-death-marat.jpg" data-lightbox-alt="Jacques-Louis David, The Death of Marat, 1793." data-lightbox-caption="Jacques-Louis David, *The Death of Marat*, 1793." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Jacques-Louis David, &lt;em&gt;The Death of Marat&lt;/em&gt;, 1793.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="slideshow__controls" aria-label="Slideshow controls"&gt;
- &lt;button class="slideshow__button slideshow__button--prev" type="button" aria-label="Previous image"&gt;PREVIOUS&lt;/button&gt;
- &lt;button class="slideshow__button slideshow__button--next" type="button" aria-label="Next image"&gt;NEXT&lt;/button&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;h2 id="featured-poems-and-texts"&gt;Featured Poems and Texts&lt;/h2&gt;
-&lt;section class="poetry-block poetry-block--long-line poetry-block--form-public-ode poetry-block--with-heading"&gt;
-&lt;header class="poetry-block__heading"&gt;
- &lt;p class="poetry-block__title"&gt;To His Excellency General Washington&lt;/p&gt;</description></item><item><title>Paradise Lost</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
+ &lt;p class="poetry-block__title"&gt;Lines Composed a Few Miles above Tintern Abbey&lt;/p&gt;</description></item><item><title>Paradise Lost</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-17/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-17/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
  &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
  &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; &lt;em&gt;Paradise Lost&lt;/em&gt;: epic form, the Fall, and Milton after the Reformation.&lt;/div&gt;
 &lt;/aside&gt;
@@ -1032,8 +1003,8 @@
  
 &lt;figure class="slideshow__slide"&gt;
  &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/blake-satan-watching-adam-eve_hu_605b64be2323e40b.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/blake-satan-watching-adam-eve_hu_605b64be2323e40b.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/blake-satan-watching-adam-eve_hu_ca8ec85e80a3911c.webp 746w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 746px" width="746" height="980" alt="William Blake, Satan Watching the Endearments of Adam and Eve, 1808." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/blake-satan-watching-adam-eve.jpg" data-lightbox-alt="William Blake, Satan Watching the Endearments of Adam and Eve, 1808." data-lightbox-caption="William Blake, *Satan Watching the Endearments of Adam and Eve*, 1808." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-17/blake-satan-watching-adam-eve_hu_605b64be2323e40b.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-17/blake-satan-watching-adam-eve_hu_605b64be2323e40b.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-17/blake-satan-watching-adam-eve_hu_ca8ec85e80a3911c.webp 746w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 746px" width="746" height="980" alt="William Blake, Satan Watching the Endearments of Adam and Eve, 1808." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-17/blake-satan-watching-adam-eve.jpg" data-lightbox-alt="William Blake, Satan Watching the Endearments of Adam and Eve, 1808." data-lightbox-caption="William Blake, *Satan Watching the Endearments of Adam and Eve*, 1808." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
  &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
  &lt;/button&gt;
  &lt;/div&gt;
@@ -1042,8 +1013,8 @@
 
 &lt;figure class="slideshow__slide"&gt;
  &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/blake-temptation-fall-eve_hu_284ae19f818d4a69.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/blake-temptation-fall-eve_hu_284ae19f818d4a69.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/blake-temptation-fall-eve_hu_5b75aec8ce4d5b55.webp 960w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 960px" width="960" height="1218" alt="William Blake, The Temptation and Fall of Eve, 1808." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/blake-temptation-fall-eve.jpg" data-lightbox-alt="William Blake, The Temptation and Fall of Eve, 1808." data-lightbox-caption="William Blake, *The Temptation and Fall of Eve*, 1808." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-17/blake-temptation-fall-eve_hu_284ae19f818d4a69.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-17/blake-temptation-fall-eve_hu_284ae19f818d4a69.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-17/blake-temptation-fall-eve_hu_5b75aec8ce4d5b55.webp 960w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 960px" width="960" height="1218" alt="William Blake, The Temptation and Fall of Eve, 1808." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-17/blake-temptation-fall-eve.jpg" data-lightbox-alt="William Blake, The Temptation and Fall of Eve, 1808." data-lightbox-caption="William Blake, *The Temptation and Fall of Eve*, 1808." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
  &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
  &lt;/button&gt;
  &lt;/div&gt;
@@ -1095,9 +1066,10 @@ but they drank it themselves through your mouth.
 &lt;/aside&gt;
 
 &lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
-&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="I. Post-Impressionism and Fauvism"&gt;
+&lt;h3 id="i-post-impressionism"&gt;I. Post-Impressionism&lt;/h3&gt;
+&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Post-Impressionism"&gt;
  &lt;header class="slideshow__header"&gt;
- &lt;h2 class="slideshow__title"&gt;I. Post-Impressionism and Fauvism&lt;/h2&gt;
+ &lt;h2 class="slideshow__title"&gt;Post-Impressionism&lt;/h2&gt;
  &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;
  &lt;/header&gt;
  &lt;div class="slideshow__viewport"&gt;
@@ -1143,16 +1115,6 @@ but they drank it themselves through your mouth.
  &lt;figcaption&gt;Paul Cézanne, &lt;em&gt;Mont Sainte-Victoire Seen from the Bibémus Quarry&lt;/em&gt;, c. 1897.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/matisse-woman-with-hat_hu_960b6c03ac886367.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/matisse-woman-with-hat_hu_960b6c03ac886367.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/matisse-woman-with-hat_hu_a44f2824a9667f5d.webp 1280w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1280px" width="1280" height="1742" alt="Henri Matisse, Woman with a Hat, 1905." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/matisse-woman-with-hat.jpg" data-lightbox-alt="Henri Matisse, Woman with a Hat, 1905." data-lightbox-caption="Henri Matisse, *Woman with a Hat*, 1905." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Henri Matisse, &lt;em&gt;Woman with a Hat&lt;/em&gt;, 1905.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
 
  &lt;/div&gt;
  &lt;/div&gt;
@@ -1162,9 +1124,21 @@ but they drank it themselves through your mouth.
  &lt;/div&gt;
 &lt;/section&gt;
 
-&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="II. Ensor and Munch"&gt;
+&lt;h3 id="ii-fauvism"&gt;II. Fauvism&lt;/h3&gt;
+&lt;figure class="athenaeum-image"&gt;
+ &lt;div class="athenaeum-image__frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/matisse-woman-with-hat_hu_960b6c03ac886367.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/matisse-woman-with-hat_hu_960b6c03ac886367.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/matisse-woman-with-hat_hu_a44f2824a9667f5d.webp 1280w" sizes="(max-width: 760px) 100vw, 900px" style="--athenaeum-source-width: 1280px" width="1280" height="1742" alt="Henri Matisse, Woman with a Hat, 1905." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-30/matisse-woman-with-hat.jpg" data-lightbox-alt="Henri Matisse, Woman with a Hat, 1905." data-lightbox-caption="Henri Matisse, *Woman with a Hat*, 1905." data-lightbox-mode="single" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;&lt;figcaption&gt;Henri Matisse, &lt;em&gt;Woman with a Hat&lt;/em&gt;, 1905.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;h3 id="iii-toward-expressionism"&gt;III. Toward Expressionism&lt;/h3&gt;
+&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Ensor, Munch, and Kirchner"&gt;
  &lt;header class="slideshow__header"&gt;
- &lt;h2 class="slideshow__title"&gt;II. Ensor and Munch&lt;/h2&gt;
+ &lt;h2 class="slideshow__title"&gt;Ensor, Munch, and Kirchner&lt;/h2&gt;
  &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;</description></item><item><title>Postwar Poetry and Abstraction</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-36/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
  &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
  &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Postwar abstraction and late Wallace Stevens.&lt;/div&gt;
@@ -1304,57 +1278,22 @@ but they drank it themselves through your mouth.
 &lt;/aside&gt;
 
 &lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
-&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Wright, Fuseli, and Goya"&gt;
+&lt;h3 id="enlightenment-observation"&gt;Enlightenment Observation&lt;/h3&gt;
+&lt;figure class="athenaeum-image"&gt;
+ &lt;div class="athenaeum-image__frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-19/wright-air-pump_hu_5a9772eaf86d1bdc.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-19/wright-air-pump_hu_5a9772eaf86d1bdc.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-19/wright-air-pump_hu_8979b0739347f50.webp 1440w" sizes="(max-width: 760px) 100vw, 900px" style="--athenaeum-source-width: 2600px" width="2600" height="1939" alt="Joseph Wright of Derby, An Experiment on a Bird in the Air Pump, 1768." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-19/wright-air-pump.jpg" data-lightbox-alt="Joseph Wright of Derby, An Experiment on a Bird in the Air Pump, 1768." data-lightbox-caption="Joseph Wright of Derby, *An Experiment on a Bird in the Air Pump*, 1768." data-lightbox-mode="single" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;&lt;figcaption&gt;Joseph Wright of Derby, &lt;em&gt;An Experiment on a Bird in the Air Pump&lt;/em&gt;, 1768.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;h3 id="nightmare-and-the-irrational"&gt;Nightmare and the Irrational&lt;/h3&gt;
+&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Fuseli and Goya"&gt;
  &lt;header class="slideshow__header"&gt;
- &lt;h2 class="slideshow__title"&gt;Wright, Fuseli, and Goya&lt;/h2&gt;
- &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;
- &lt;/header&gt;
- &lt;div class="slideshow__viewport"&gt;
- &lt;div class="slideshow__track"&gt;
- 
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-19/wright-air-pump_hu_5a9772eaf86d1bdc.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-19/wright-air-pump_hu_5a9772eaf86d1bdc.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-19/wright-air-pump_hu_8979b0739347f50.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 2600px" width="2600" height="1939" alt="Joseph Wright of Derby, An Experiment on a Bird in the Air Pump, 1768." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-19/wright-air-pump.jpg" data-lightbox-alt="Joseph Wright of Derby, An Experiment on a Bird in the Air Pump, 1768." data-lightbox-caption="Joseph Wright of Derby, *An Experiment on a Bird in the Air Pump*, 1768." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Joseph Wright of Derby, &lt;em&gt;An Experiment on a Bird in the Air Pump&lt;/em&gt;, 1768.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-19/fuseli-nightmare_hu_551f61776cf2647f.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-19/fuseli-nightmare_hu_551f61776cf2647f.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-19/fuseli-nightmare_hu_8af6ddf9619e48ba.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 2600px" width="2600" height="2107" alt="Henry Fuseli, The Nightmare, 1781." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-19/fuseli-nightmare.jpg" data-lightbox-alt="Henry Fuseli, The Nightmare, 1781." data-lightbox-caption="Henry Fuseli, *The Nightmare*, 1781." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Henry Fuseli, &lt;em&gt;The Nightmare&lt;/em&gt;, 1781.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-19/goya-sleep-reason_hu_e21ff61788b2fb02.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-19/goya-sleep-reason_hu_e21ff61788b2fb02.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-19/goya-sleep-reason_hu_879e7f59a6517110.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1842px" width="1842" height="2600" alt="Francisco Goya, The Sleep of Reason Produces Monsters, c. 1797–1799." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-19/goya-sleep-reason.jpg" data-lightbox-alt="Francisco Goya, The Sleep of Reason Produces Monsters, c. 1797–1799." data-lightbox-caption="Francisco Goya, *The Sleep of Reason Produces Monsters*, c. 1797–1799." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Francisco Goya, &lt;em&gt;The Sleep of Reason Produces Monsters&lt;/em&gt;, c. 1797–1799.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="slideshow__controls" aria-label="Slideshow controls"&gt;
- &lt;button class="slideshow__button slideshow__button--prev" type="button" aria-label="Previous image"&gt;PREVIOUS&lt;/button&gt;
- &lt;button class="slideshow__button slideshow__button--next" type="button" aria-label="Next image"&gt;NEXT&lt;/button&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;h2 id="featured-poems-and-texts"&gt;Featured Poems and Texts&lt;/h2&gt;
-&lt;section class="poetry-block poetry-block--long-line poetry-block--form-hymnic-lyric poetry-block--with-heading"&gt;
-&lt;header class="poetry-block__heading"&gt;
- &lt;p class="poetry-block__title"&gt;Prometheus&lt;/p&gt;</description></item><item><title>Symbolism and the Fin de Siècle</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-29/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-29/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
+ &lt;h2 class="slideshow__title"&gt;Fuseli and Goya&lt;/h2&gt;
+ &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;</description></item><item><title>Symbolism and the Fin de Siècle</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-29/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-29/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
  &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
  &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Symbolism in painting, poetry, and music.&lt;/div&gt;
 &lt;/aside&gt;
@@ -1373,7 +1312,7 @@ but they drank it themselves through your mouth.
 &lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Symbolist Painting"&gt;
  &lt;header class="slideshow__header"&gt;
  &lt;h2 class="slideshow__title"&gt;Symbolist Painting&lt;/h2&gt;
- &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;</description></item><item><title>The Baroque</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
+ &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;</description></item><item><title>The Baroque</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
  &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
  &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Baroque art and Donne: religion, drama, and the body.&lt;/div&gt;
 &lt;/aside&gt;
@@ -1389,8 +1328,8 @@ but they drank it themselves through your mouth.
  
 &lt;figure class="slideshow__slide"&gt;
  &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/caravaggio-calling-saint-matthew_hu_6971fac8ff8bee9f.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/caravaggio-calling-saint-matthew_hu_6971fac8ff8bee9f.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/caravaggio-calling-saint-matthew_hu_af330264878cc873.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 2400px" width="2400" height="2267" alt="Caravaggio, The Calling of Saint Matthew, 1599–1600." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/caravaggio-calling-saint-matthew.jpg" data-lightbox-alt="Caravaggio, The Calling of Saint Matthew, 1599–1600." data-lightbox-caption="Caravaggio, *The Calling of Saint Matthew*, 1599–1600." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/caravaggio-calling-saint-matthew_hu_6971fac8ff8bee9f.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/caravaggio-calling-saint-matthew_hu_6971fac8ff8bee9f.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/caravaggio-calling-saint-matthew_hu_af330264878cc873.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 2400px" width="2400" height="2267" alt="Caravaggio, The Calling of Saint Matthew, 1599–1600." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/caravaggio-calling-saint-matthew.jpg" data-lightbox-alt="Caravaggio, The Calling of Saint Matthew, 1599–1600." data-lightbox-caption="Caravaggio, *The Calling of Saint Matthew*, 1599–1600." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
  &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
  &lt;/button&gt;
  &lt;/div&gt;
@@ -1399,8 +1338,8 @@ but they drank it themselves through your mouth.
 
 &lt;figure class="slideshow__slide"&gt;
  &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/bernini-ecstasy-saint-teresa_hu_30e6ed4a4bc1963.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/bernini-ecstasy-saint-teresa_hu_30e6ed4a4bc1963.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/bernini-ecstasy-saint-teresa_hu_7fe2870c6e417424.webp 960w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 960px" width="960" height="1280" alt="Gian Lorenzo Bernini, The Ecstasy of Saint Teresa, 1647–1652." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/bernini-ecstasy-saint-teresa.jpg" data-lightbox-alt="Gian Lorenzo Bernini, The Ecstasy of Saint Teresa, 1647–1652." data-lightbox-caption="Gian Lorenzo Bernini, *The Ecstasy of Saint Teresa*, 1647–1652." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/bernini-ecstasy-saint-teresa_hu_30e6ed4a4bc1963.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/bernini-ecstasy-saint-teresa_hu_30e6ed4a4bc1963.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/bernini-ecstasy-saint-teresa_hu_7fe2870c6e417424.webp 960w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 960px" width="960" height="1280" alt="Gian Lorenzo Bernini, The Ecstasy of Saint Teresa, 1647–1652." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/bernini-ecstasy-saint-teresa.jpg" data-lightbox-alt="Gian Lorenzo Bernini, The Ecstasy of Saint Teresa, 1647–1652." data-lightbox-caption="Gian Lorenzo Bernini, *The Ecstasy of Saint Teresa*, 1647–1652." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
  &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
  &lt;/button&gt;
  &lt;/div&gt;
@@ -1409,8 +1348,8 @@ but they drank it themselves through your mouth.
 
 &lt;figure class="slideshow__slide"&gt;
  &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/rubens-elevation-cross_hu_31a737482a6164aa.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/rubens-elevation-cross_hu_31a737482a6164aa.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/rubens-elevation-cross_hu_59e416ec42c7db47.webp 847w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 847px" width="847" height="730" alt="Peter Paul Rubens, The Elevation of the Cross, 1610–1611." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/rubens-elevation-cross.jpg" data-lightbox-alt="Peter Paul Rubens, The Elevation of the Cross, 1610–1611." data-lightbox-caption="Peter Paul Rubens, *The Elevation of the Cross*, 1610–1611." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/rubens-elevation-cross_hu_31a737482a6164aa.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/rubens-elevation-cross_hu_31a737482a6164aa.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/rubens-elevation-cross_hu_59e416ec42c7db47.webp 847w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 847px" width="847" height="730" alt="Peter Paul Rubens, The Elevation of the Cross, 1610–1611." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/rubens-elevation-cross.jpg" data-lightbox-alt="Peter Paul Rubens, The Elevation of the Cross, 1610–1611." data-lightbox-caption="Peter Paul Rubens, *The Elevation of the Cross*, 1610–1611." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
  &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
  &lt;/button&gt;
  &lt;/div&gt;
@@ -1429,7 +1368,7 @@ but they drank it themselves through your mouth.
 &lt;h2 id="featured-poems-and-texts"&gt;Featured Poems and Texts&lt;/h2&gt;
 &lt;section class="poetry-block poetry-block--classic-lyric poetry-block--form-holy-sonnet poetry-block--with-heading"&gt;
 &lt;header class="poetry-block__heading"&gt;
- &lt;p class="poetry-block__title"&gt;Holy Sonnet XIV&lt;/p&gt;</description></item><item><title>The Dutch Golden Age</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-17/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-17/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
+ &lt;p class="poetry-block__title"&gt;Holy Sonnet XIV&lt;/p&gt;</description></item><item><title>The Dutch Golden Age</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
  &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
  &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Dutch painting and Marvell: objects, time, and mortality.&lt;/div&gt;
 &lt;/aside&gt;
@@ -1445,8 +1384,8 @@ but they drank it themselves through your mouth.
  
 &lt;figure class="slideshow__slide"&gt;
  &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-17/vermeer-woman-holding-balance_hu_b83ed596bc4c0178.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-17/vermeer-woman-holding-balance_hu_b83ed596bc4c0178.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-17/vermeer-woman-holding-balance_hu_1551f765f0bd9178.webp 960w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 960px" width="960" height="1086" alt="Johannes Vermeer, Woman Holding a Balance, c. 1662–1664." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-17/vermeer-woman-holding-balance.jpg" data-lightbox-alt="Johannes Vermeer, Woman Holding a Balance, c. 1662–1664." data-lightbox-caption="Johannes Vermeer, *Woman Holding a Balance*, c. 1662–1664." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/vermeer-woman-holding-balance_hu_b83ed596bc4c0178.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/vermeer-woman-holding-balance_hu_b83ed596bc4c0178.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/vermeer-woman-holding-balance_hu_1551f765f0bd9178.webp 960w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 960px" width="960" height="1086" alt="Johannes Vermeer, Woman Holding a Balance, c. 1662–1664." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/vermeer-woman-holding-balance.jpg" data-lightbox-alt="Johannes Vermeer, Woman Holding a Balance, c. 1662–1664." data-lightbox-caption="Johannes Vermeer, *Woman Holding a Balance*, c. 1662–1664." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
  &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
  &lt;/button&gt;
  &lt;/div&gt;
@@ -1455,8 +1394,8 @@ but they drank it themselves through your mouth.
 
 &lt;figure class="slideshow__slide"&gt;
  &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-17/rembrandt-anatomy-lesson-tulp_hu_59dca9169d022a5f.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-17/rembrandt-anatomy-lesson-tulp_hu_59dca9169d022a5f.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-17/rembrandt-anatomy-lesson-tulp_hu_a3c75c66426d2718.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 2400px" width="2400" height="1808" alt="Rembrandt, The Anatomy Lesson of Dr. Nicolaes Tulp, 1632." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-17/rembrandt-anatomy-lesson-tulp.jpg" data-lightbox-alt="Rembrandt, The Anatomy Lesson of Dr. Nicolaes Tulp, 1632." data-lightbox-caption="Rembrandt van Rijn, *The Anatomy Lesson of Dr. Nicolaes Tulp*, 1632." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/rembrandt-anatomy-lesson-tulp_hu_59dca9169d022a5f.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/rembrandt-anatomy-lesson-tulp_hu_59dca9169d022a5f.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/rembrandt-anatomy-lesson-tulp_hu_a3c75c66426d2718.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 2400px" width="2400" height="1808" alt="Rembrandt, The Anatomy Lesson of Dr. Nicolaes Tulp, 1632." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/rembrandt-anatomy-lesson-tulp.jpg" data-lightbox-alt="Rembrandt, The Anatomy Lesson of Dr. Nicolaes Tulp, 1632." data-lightbox-caption="Rembrandt van Rijn, *The Anatomy Lesson of Dr. Nicolaes Tulp*, 1632." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
  &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
  &lt;/button&gt;
  &lt;/div&gt;
@@ -1465,8 +1404,8 @@ but they drank it themselves through your mouth.
 
 &lt;figure class="slideshow__slide"&gt;
  &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-17/claesz-vanitas-spinario_hu_b05892f1f498f30a.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-17/claesz-vanitas-spinario_hu_b05892f1f498f30a.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-17/claesz-vanitas-spinario_hu_75c625fc69fb6bc6.webp 1280w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1280px" width="1280" height="1104" alt="Pieter Claesz, Vanitas Still Life with the Spinario, 1628." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-17/claesz-vanitas-spinario.jpg" data-lightbox-alt="Pieter Claesz, Vanitas Still Life with the Spinario, 1628." data-lightbox-caption="Pieter Claesz, *Vanitas Still Life with the Spinario*, 1628." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/claesz-vanitas-spinario_hu_b05892f1f498f30a.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/claesz-vanitas-spinario_hu_b05892f1f498f30a.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/claesz-vanitas-spinario_hu_75c625fc69fb6bc6.webp 1280w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1280px" width="1280" height="1104" alt="Pieter Claesz, Vanitas Still Life with the Spinario, 1628." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/claesz-vanitas-spinario.jpg" data-lightbox-alt="Pieter Claesz, Vanitas Still Life with the Spinario, 1628." data-lightbox-caption="Pieter Claesz, *Vanitas Still Life with the Spinario*, 1628." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
  &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
  &lt;/button&gt;
  &lt;/div&gt;
@@ -1491,9 +1430,10 @@ but they drank it themselves through your mouth.
 &lt;/aside&gt;
 
 &lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
-&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="The Modern City"&gt;
+&lt;h3 id="paris"&gt;Paris&lt;/h3&gt;
+&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Paris"&gt;
  &lt;header class="slideshow__header"&gt;
- &lt;h2 class="slideshow__title"&gt;The Modern City&lt;/h2&gt;
+ &lt;h2 class="slideshow__title"&gt;Paris&lt;/h2&gt;
  &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;
  &lt;/header&gt;
  &lt;div class="slideshow__viewport"&gt;
@@ -1547,6 +1487,17 @@ but they drank it themselves through your mouth.
  &lt;button class="slideshow__button slideshow__button--next" type="button" aria-label="Next image"&gt;NEXT&lt;/button&gt;
  &lt;/div&gt;
 &lt;/section&gt;
+
+&lt;h3 id="new-york"&gt;New York&lt;/h3&gt;
+&lt;figure class="athenaeum-image"&gt;
+ &lt;div class="athenaeum-image__frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-27/currier-ives-brooklyn-bridge-opening_hu_6cc3471f776d720b.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-27/currier-ives-brooklyn-bridge-opening_hu_6cc3471f776d720b.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-27/currier-ives-brooklyn-bridge-opening_hu_430d9e3b9ce77bfb.webp 1024w" sizes="(max-width: 760px) 100vw, 900px" style="--athenaeum-source-width: 1024px" width="1024" height="781" alt="Currier and Ives chromolithograph of the Brooklyn Bridge opening with fireworks, 1883." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-27/currier-ives-brooklyn-bridge-opening.jpg" data-lightbox-alt="Currier and Ives chromolithograph of the Brooklyn Bridge opening with fireworks, 1883." data-lightbox-caption="Currier &amp; Ives, *The Grand Display of Fireworks and Illuminations at the Opening of the Great Suspension Bridge between New York and Brooklyn*, 1883. Chromolithograph. Library of Congress. No known restrictions on publication." data-lightbox-mode="single" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;&lt;figcaption&gt;Currier &amp;amp; Ives, &lt;em&gt;The Grand Display of Fireworks and Illuminations at the Opening of the Great Suspension Bridge between New York and Brooklyn&lt;/em&gt;, 1883. Chromolithograph. Library of Congress. No known restrictions on publication.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
 
 &lt;h2 id="featured-poems-and-texts"&gt;Featured Poems and Texts&lt;/h2&gt;
 &lt;h3 id="to-a-passer-by"&gt;To a Passer-By&lt;/h3&gt;
@@ -1774,7 +1725,7 @@ but they drank it themselves through your mouth.
 &lt;header class="poetry-block__heading"&gt;
  &lt;p class="poetry-block__title"&gt;The Lady of Shalott&lt;/p&gt;</description></item><item><title>Why Paint at All?</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-25/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-25/</guid><description>&lt;aside class="unit-notes" aria-label="Unit plan"&gt;
  &lt;p class="unit-notes__label"&gt;Unit plan&lt;/p&gt;
- &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Early photography and its challenge to painting.&lt;/div&gt;
+ &lt;div class="unit-notes__body"&gt;&lt;strong&gt;Purpose:&lt;/strong&gt; Early photography and its consequences for painting.&lt;/div&gt;
 &lt;/aside&gt;
 
 &lt;h2 id="featured-artwork"&gt;Featured Artwork&lt;/h2&gt;
@@ -1797,74 +1748,15 @@ but they drank it themselves through your mouth.
 &lt;/aside&gt;
 
 &lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
-&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Art and World War I"&gt;
- &lt;header class="slideshow__header"&gt;
- &lt;h2 class="slideshow__title"&gt;Art and World War I&lt;/h2&gt;
- &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;
- &lt;/header&gt;
- &lt;div class="slideshow__viewport"&gt;
- &lt;div class="slideshow__track"&gt;
- 
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/kirchner-self-portrait-soldier_hu_daf189fd4e15684d.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/kirchner-self-portrait-soldier_hu_daf189fd4e15684d.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/kirchner-self-portrait-soldier_hu_9b7573c85efc1e87.webp 1280w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1280px" width="1280" height="1480" alt="Ernst Ludwig Kirchner, Self-Portrait as a Soldier, 1915." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/kirchner-self-portrait-soldier.jpg" data-lightbox-alt="Ernst Ludwig Kirchner, Self-Portrait as a Soldier, 1915." data-lightbox-caption="Ernst Ludwig Kirchner, *Self-Portrait as a Soldier*, 1915." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
+&lt;h3 id="before-the-war"&gt;Before the War&lt;/h3&gt;
+&lt;figure class="athenaeum-image"&gt;
+ &lt;div class="athenaeum-image__frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/franz-marc-fate-animals_hu_55b06501f8512b7e.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/franz-marc-fate-animals_hu_55b06501f8512b7e.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/franz-marc-fate-animals_hu_814cc43021be4971.webp 1150w" sizes="(max-width: 760px) 100vw, 900px" style="--athenaeum-source-width: 1150px" width="1150" height="838" alt="Franz Marc, The Fate of the Animals, 1913." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/franz-marc-fate-animals.jpg" data-lightbox-alt="Franz Marc, The Fate of the Animals, 1913." data-lightbox-caption="Franz Marc, *The Fate of the Animals*, 1913." data-lightbox-mode="single" aria-label="Expand image"&gt;
  &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
  &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Ernst Ludwig Kirchner, &lt;em&gt;Self-Portrait as a Soldier&lt;/em&gt;, 1915.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/nevinson-la-mitrailleuse_hu_4b886b5a89eb9bf2.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/nevinson-la-mitrailleuse_hu_4b886b5a89eb9bf2.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/nevinson-la-mitrailleuse_hu_7c6bbd4f8ebb721a.webp 1280w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1280px" width="1280" height="1492" alt="C. R. W. Nevinson, La Mitrailleuse, 1915." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/nevinson-la-mitrailleuse.jpg" data-lightbox-alt="C. R. W. Nevinson, La Mitrailleuse, 1915." data-lightbox-caption="C. R. W. Nevinson, *La Mitrailleuse*, 1915." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;C. R. W. Nevinson, &lt;em&gt;La Mitrailleuse&lt;/em&gt;, 1915.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/paul-nash-we-are-making-new-world_hu_86e364ab52588d66.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/paul-nash-we-are-making-new-world_hu_86e364ab52588d66.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/paul-nash-we-are-making-new-world_hu_51b7ad6e8c6230f1.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1920px" width="1920" height="1503" alt="Paul Nash, We Are Making a New World, 1918." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/paul-nash-we-are-making-new-world.jpg" data-lightbox-alt="Paul Nash, We Are Making a New World, 1918." data-lightbox-caption="Paul Nash, *We Are Making a New World*, 1918." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Paul Nash, &lt;em&gt;We Are Making a New World&lt;/em&gt;, 1918.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/otto-dix-stormtroopers-gas_hu_dbec486164aa49f0.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/otto-dix-stormtroopers-gas_hu_dbec486164aa49f0.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/otto-dix-stormtroopers-gas_hu_5cdf201a85682b5e.webp 1440w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 3746px" width="3746" height="2507" alt="Otto Dix, Stormtroopers Advancing under Gas, 1924." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/otto-dix-stormtroopers-gas.jpg" data-lightbox-alt="Otto Dix, Stormtroopers Advancing under Gas, 1924." data-lightbox-caption="Otto Dix, *Stormtroopers Advancing under Gas*, from *Der Krieg*, 1924." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Otto Dix, &lt;em&gt;Stormtroopers Advancing under Gas&lt;/em&gt;, from &lt;em&gt;Der Krieg&lt;/em&gt;, 1924.&lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;figure class="slideshow__slide"&gt;
- &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/franz-marc-fate-animals_hu_55b06501f8512b7e.webp" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/franz-marc-fate-animals_hu_55b06501f8512b7e.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/franz-marc-fate-animals_hu_814cc43021be4971.webp 1150w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1150px" width="1150" height="838" alt="Franz Marc, The Fate of the Animals, 1913." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-lightbox-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-33/franz-marc-fate-animals.jpg" data-lightbox-alt="Franz Marc, The Fate of the Animals, 1913." data-lightbox-caption="Franz Marc, *The Fate of the Animals*, 1913." data-lightbox-mode="gallery" aria-label="Expand image"&gt;
- &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
- &lt;/button&gt;
- &lt;/div&gt;
- &lt;figcaption&gt;Franz Marc, &lt;em&gt;The Fate of the Animals&lt;/em&gt;, 1913.&lt;/figcaption&gt;
+ &lt;/div&gt;&lt;figcaption&gt;Franz Marc, &lt;em&gt;The Fate of the Animals&lt;/em&gt;, 1913.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 
- &lt;/div&gt;
- &lt;/div&gt;
- &lt;div class="slideshow__controls" aria-label="Slideshow controls"&gt;
- &lt;button class="slideshow__button slideshow__button--prev" type="button" aria-label="Previous image"&gt;PREVIOUS&lt;/button&gt;
- &lt;button class="slideshow__button slideshow__button--next" type="button" aria-label="Next image"&gt;NEXT&lt;/button&gt;
- &lt;/div&gt;
-&lt;/section&gt;
-
-&lt;h2 id="featured-poems-and-texts"&gt;Featured Poems and Texts&lt;/h2&gt;
-&lt;section class="poetry-block poetry-block--long-line poetry-block--form-war-poem poetry-block--with-heading"&gt;
-&lt;header class="poetry-block__heading"&gt;
- &lt;p class="poetry-block__title"&gt;Dulce et Decorum Est&lt;/p&gt;</description></item></channel></rss>
+&lt;p&gt;Marc painted &lt;em&gt;The Fate of the Animals&lt;/em&gt; in 1913, before the war.&lt;/p&gt;</description></item></channel></rss>
