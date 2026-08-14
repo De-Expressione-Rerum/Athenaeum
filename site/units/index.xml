@@ -924,6 +924,16 @@
  &lt;/div&gt;
 &lt;/section&gt;
 
+&lt;figure class="athenaeum-image"&gt;
+ &lt;div class="athenaeum-image__frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-21/friedrich-monk-by-the-sea_hu_27275e707592ad74.webp" data-full-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-21/friedrich-monk-by-the-sea.jpg" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-21/friedrich-monk-by-the-sea_hu_27275e707592ad74.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-21/friedrich-monk-by-the-sea_hu_5ae546fca74f5fdb.webp 1440w" sizes="(max-width: 760px) 100vw, 900px" style="--athenaeum-source-width: 2048px" width="2048" height="1152" alt="Caspar David Friedrich, Monk by the Sea, 1808–1810." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-image-viewer-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-21/friedrich-monk-by-the-sea.jpg" data-image-viewer-alt="Caspar David Friedrich, Monk by the Sea, 1808–1810." data-image-viewer-caption="Caspar David Friedrich, *Monk by the Sea*, 1808–1810." data-image-viewer-mode="single" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;&lt;figcaption&gt;Caspar David Friedrich, &lt;em&gt;Monk by the Sea&lt;/em&gt;, 1808–1810.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
 &lt;h2 id="featured-poems-and-texts"&gt;Featured Poems and Texts&lt;/h2&gt;
 &lt;section class="poetry-block poetry-block--long-line poetry-block--form-blank-verse poetry-block--with-heading"&gt;
 &lt;header class="poetry-block__heading"&gt;
@@ -1225,6 +1235,7 @@ but they drank it themselves through your mouth.
  &lt;div class="slideshow__viewport"&gt;
  &lt;div class="slideshow__track"&gt;
  
+
 &lt;figure class="slideshow__slide"&gt;
  &lt;div class="slideshow__image-frame"&gt;
  &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-29/klimt-judith-i_hu_a168aceb6eb951b8.webp" data-full-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-29/klimt-judith-i.jpg" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-29/klimt-judith-i_hu_a168aceb6eb951b8.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-29/klimt-judith-i_hu_32129cfdc2eddb89.webp 960w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 960px" width="960" height="1955" alt="Gustav Klimt, Judith I, 1901." loading="lazy" decoding="async"&gt;
@@ -1235,6 +1246,7 @@ but they drank it themselves through your mouth.
  &lt;figcaption&gt;Gustav Klimt, &lt;em&gt;Judith I&lt;/em&gt;, 1901.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
+
 &lt;figure class="slideshow__slide"&gt;
  &lt;div class="slideshow__image-frame"&gt;
  &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-29/franz-von-stuck-sin_hu_800abf422f7955fc.webp" data-full-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-29/franz-von-stuck-sin.jpg" style="--athenaeum-source-width: 490px" width="490" height="820" alt="Franz von Stuck, The Sin, 1893." loading="lazy" decoding="async"&gt;
@@ -1244,6 +1256,7 @@ but they drank it themselves through your mouth.
  &lt;/div&gt;
  &lt;figcaption&gt;Franz von Stuck, &lt;em&gt;The Sin&lt;/em&gt;, 1893.&lt;/figcaption&gt;
 &lt;/figure&gt;
+
 
 &lt;figure class="slideshow__slide"&gt;
  &lt;div class="slideshow__image-frame"&gt;
@@ -1256,6 +1269,7 @@ but they drank it themselves through your mouth.
 &lt;/figure&gt;
 
 
+
  &lt;/div&gt;
  &lt;/div&gt;
  &lt;div class="slideshow__controls" aria-label="Slideshow controls"&gt;
@@ -1264,11 +1278,20 @@ but they drank it themselves through your mouth.
  &lt;/div&gt;
 &lt;/section&gt;
 
-&lt;h2 id="featured-poems-and-texts"&gt;Featured Poems and Texts&lt;/h2&gt;
-&lt;h3 id="the-afternoon-of-a-faun"&gt;The Afternoon of a Faun&lt;/h3&gt;
-&lt;section class="poetry-block poetry-block--long-line poetry-block--form-symbolist-eclogue poetry-block--with-heading"&gt;
-&lt;header class="poetry-block__heading"&gt;
- &lt;p class="poetry-block__title"&gt;The Afternoon of a Faun&lt;/p&gt;</description></item><item><title>The Dutch Golden Age</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/</guid><description>&lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
+&lt;figure class="athenaeum-image"&gt;
+ &lt;div class="athenaeum-image__frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-29/whistler-nocturne-black-gold-falling-rocket_hu_16e1bf2861902bf0.webp" data-full-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-29/whistler-nocturne-black-gold-falling-rocket.jpg" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-29/whistler-nocturne-black-gold-falling-rocket_hu_16e1bf2861902bf0.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-29/whistler-nocturne-black-gold-falling-rocket_hu_11317521cb17e04.webp 1440w" sizes="(max-width: 760px) 100vw, 900px" style="--athenaeum-source-width: 2288px" width="2288" height="3000" alt="James McNeill Whistler, Nocturne in Black and Gold: The Falling Rocket, 1875." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-image-viewer-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-29/whistler-nocturne-black-gold-falling-rocket.jpg" data-image-viewer-alt="James McNeill Whistler, Nocturne in Black and Gold: The Falling Rocket, 1875." data-image-viewer-caption="James McNeill Whistler, *Nocturne in Black and Gold: The Falling Rocket*, 1875." data-image-viewer-mode="single" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;&lt;figcaption&gt;James McNeill Whistler, &lt;em&gt;Nocturne in Black and Gold: The Falling Rocket&lt;/em&gt;, 1875.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Paris at Night: Posters, Cabarets, and the Commercial Image"&gt;
+ &lt;header class="slideshow__header"&gt;
+ &lt;h2 class="slideshow__title"&gt;Paris at Night: Posters, Cabarets, and the Commercial Image&lt;/h2&gt;
+ &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;</description></item><item><title>The Dutch Golden Age</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-16/</guid><description>&lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
 &lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Dutch Painting and Vanitas"&gt;
  &lt;header class="slideshow__header"&gt;
  &lt;h2 class="slideshow__title"&gt;Dutch Painting and Vanitas&lt;/h2&gt;
@@ -1410,20 +1433,20 @@ but they drank it themselves through your mouth.
  &lt;/div&gt;
 &lt;/section&gt;
 
-&lt;h3 id="new-york"&gt;New York&lt;/h3&gt;
 &lt;figure class="athenaeum-image"&gt;
  &lt;div class="athenaeum-image__frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-27/currier-ives-brooklyn-bridge-opening_hu_6cc3471f776d720b.webp" data-full-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-27/currier-ives-brooklyn-bridge-opening.jpg" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-27/currier-ives-brooklyn-bridge-opening_hu_6cc3471f776d720b.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-27/currier-ives-brooklyn-bridge-opening_hu_430d9e3b9ce77bfb.webp 1024w" sizes="(max-width: 760px) 100vw, 900px" style="--athenaeum-source-width: 1024px" width="1024" height="781" alt="Currier and Ives chromolithograph of the Brooklyn Bridge opening with fireworks, 1883." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-image-viewer-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-27/currier-ives-brooklyn-bridge-opening.jpg" data-image-viewer-alt="Currier and Ives chromolithograph of the Brooklyn Bridge opening with fireworks, 1883." data-image-viewer-caption="Currier &amp; Ives, *The Grand Display of Fireworks and Illuminations at the Opening of the Great Suspension Bridge between New York and Brooklyn*, 1883. Chromolithograph. Library of Congress. No known restrictions on publication." data-image-viewer-mode="single" aria-label="Expand image"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-27/degas-place-de-la-concorde_hu_a17882f5d5df5ed8.webp" data-full-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-27/degas-place-de-la-concorde.jpg" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-27/degas-place-de-la-concorde_hu_a17882f5d5df5ed8.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-27/degas-place-de-la-concorde_hu_a882b90860f43cb.webp 1440w" sizes="(max-width: 760px) 100vw, 900px" style="--athenaeum-source-width: 2000px" width="2000" height="1419" alt="Edgar Degas, Place de la Concorde, 1875." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-image-viewer-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-27/degas-place-de-la-concorde.jpg" data-image-viewer-alt="Edgar Degas, Place de la Concorde, 1875." data-image-viewer-caption="Edgar Degas, *Place de la Concorde*, 1875." data-image-viewer-mode="single" aria-label="Expand image"&gt;
  &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
  &lt;/button&gt;
- &lt;/div&gt;&lt;figcaption&gt;Currier &amp;amp; Ives, &lt;em&gt;The Grand Display of Fireworks and Illuminations at the Opening of the Great Suspension Bridge between New York and Brooklyn&lt;/em&gt;, 1883. Chromolithograph. Library of Congress. No known restrictions on publication.&lt;/figcaption&gt;
+ &lt;/div&gt;&lt;figcaption&gt;Edgar Degas, &lt;em&gt;Place de la Concorde&lt;/em&gt;, 1875.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 
-&lt;h2 id="featured-poems-and-texts"&gt;Featured Poems and Texts&lt;/h2&gt;
-&lt;h3 id="to-a-passer-by"&gt;To a Passer-By&lt;/h3&gt;
-&lt;p&gt;A woman in mourning passes the speaker in a crowd. The encounter lasts only a moment.&lt;/p&gt;</description></item><item><title>The Renaissance Lyric</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-12/</guid><description>&lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
+&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="The Modern City"&gt;
+ &lt;header class="slideshow__header"&gt;
+ &lt;h2 class="slideshow__title"&gt;The Modern City&lt;/h2&gt;
+ &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;</description></item><item><title>The Renaissance Lyric</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-12/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-12/</guid><description>&lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
 &lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Botticelli and Hilliard"&gt;
  &lt;header class="slideshow__header"&gt;
  &lt;h2 class="slideshow__title"&gt;Botticelli and Hilliard&lt;/h2&gt;
