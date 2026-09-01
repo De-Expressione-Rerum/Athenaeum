@@ -564,9 +564,20 @@
 &lt;header class="poetry-block__heading"&gt;
  &lt;p class="poetry-block__title"&gt;Catullus 101&lt;/p&gt;</description></item><item><title>From Rococo to Revolution</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/</guid><description>&lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
 &lt;h3 id="rococo-and-polite-society"&gt;Rococo and Polite Society&lt;/h3&gt;
-&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Rococo and Grand Manner Portraiture"&gt;
+&lt;figure class="athenaeum-image"&gt;
+ &lt;div class="athenaeum-image__frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/fragonard-swing_hu_d2eb2993afa328ff.webp" data-full-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/fragonard-swing.jpg" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/fragonard-swing_hu_d2eb2993afa328ff.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/fragonard-swing_hu_5cf3023d5c733ac.webp 1280w" sizes="(max-width: 760px) 100vw, 900px" style="--athenaeum-source-width: 1280px" width="1280" height="1653" alt="Jean-Honoré Fragonard, The Swing, 1767." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-image-viewer-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/fragonard-swing.jpg" data-image-viewer-alt="Jean-Honoré Fragonard, The Swing, 1767." data-image-viewer-caption="Jean-Honoré Fragonard, *The Swing*, 1767." data-image-viewer-mode="single" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;&lt;figcaption&gt;Jean-Honoré Fragonard, &lt;em&gt;The Swing&lt;/em&gt;, 1767.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+&lt;h3 id="grand-manner-and-swagger-portraiture"&gt;Grand Manner and Swagger Portraiture&lt;/h3&gt;
+&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Van Dyck, Reynolds, and Gainsborough"&gt;
  &lt;header class="slideshow__header"&gt;
- &lt;h2 class="slideshow__title"&gt;Rococo and Grand Manner Portraiture&lt;/h2&gt;
+ &lt;h2 class="slideshow__title"&gt;Van Dyck, Reynolds, and Gainsborough&lt;/h2&gt;
  &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;
  &lt;/header&gt;
  &lt;div class="slideshow__viewport"&gt;
@@ -574,12 +585,32 @@
  
 &lt;figure class="slideshow__slide"&gt;
  &lt;div class="slideshow__image-frame"&gt;
- &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/fragonard-swing_hu_d2eb2993afa328ff.webp" data-full-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/fragonard-swing.jpg" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/fragonard-swing_hu_d2eb2993afa328ff.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/fragonard-swing_hu_5cf3023d5c733ac.webp 1280w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1280px" width="1280" height="1653" alt="Jean-Honoré Fragonard, The Swing, 1767." loading="lazy" decoding="async"&gt;
- &lt;button class="image-expand-button" type="button" data-image-viewer-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/fragonard-swing.jpg" data-image-viewer-alt="Jean-Honoré Fragonard, The Swing, 1767." data-image-viewer-caption="Jean-Honoré Fragonard, *The Swing*, 1767." data-image-viewer-mode="gallery" aria-label="Expand image"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/van-dyck-charles-i-at-the-hunt_hu_56ae799c9846ba3f.webp" data-full-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/van-dyck-charles-i-at-the-hunt.jpg" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/van-dyck-charles-i-at-the-hunt_hu_56ae799c9846ba3f.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/van-dyck-charles-i-at-the-hunt_hu_e7ec7badaf106f9e.webp 1280w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1280px" width="1280" height="1657" alt="Anthony van Dyck, Charles I at the Hunt, circa 1636." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-image-viewer-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/van-dyck-charles-i-at-the-hunt.jpg" data-image-viewer-alt="Anthony van Dyck, Charles I at the Hunt, circa 1636." data-image-viewer-caption="Anthony van Dyck, *Charles I at the Hunt*, c. 1636. Oil on canvas. Musée du Louvre." data-image-viewer-mode="gallery" aria-label="Expand image"&gt;
  &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
  &lt;/button&gt;
  &lt;/div&gt;
- &lt;figcaption&gt;Jean-Honoré Fragonard, &lt;em&gt;The Swing&lt;/em&gt;, 1767.&lt;/figcaption&gt;
+ &lt;figcaption&gt;Anthony van Dyck, &lt;em&gt;Charles I at the Hunt&lt;/em&gt;, c. 1636. Oil on canvas. Musée du Louvre.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class="slideshow__slide"&gt;
+ &lt;div class="slideshow__image-frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/reynolds-commodore-keppel_hu_b0f762b9c2644244.webp" data-full-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/reynolds-commodore-keppel.jpg" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/reynolds-commodore-keppel_hu_b0f762b9c2644244.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/reynolds-commodore-keppel_hu_5aa1d5c29a2264f4.webp 1019w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1019px" width="1019" height="1280" alt="Joshua Reynolds, Commodore the Honourable Augustus Keppel, 1749." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-image-viewer-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/reynolds-commodore-keppel.jpg" data-image-viewer-alt="Joshua Reynolds, Commodore the Honourable Augustus Keppel, 1749." data-image-viewer-caption="Joshua Reynolds, *Commodore the Honourable Augustus Keppel*, 1749. Oil on canvas. National Maritime Museum, Greenwich." data-image-viewer-mode="gallery" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;figcaption&gt;Joshua Reynolds, &lt;em&gt;Commodore the Honourable Augustus Keppel&lt;/em&gt;, 1749. Oil on canvas. National Maritime Museum, Greenwich.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class="slideshow__slide"&gt;
+ &lt;div class="slideshow__image-frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/gainsborough-blue-boy_hu_53f414d85d750888.webp" data-full-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/gainsborough-blue-boy.jpg" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/gainsborough-blue-boy_hu_53f414d85d750888.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/gainsborough-blue-boy_hu_68e00e1899c12643.webp 872w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 872px" width="872" height="1289" alt="Thomas Gainsborough, The Blue Boy, circa 1770." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-image-viewer-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-18/gainsborough-blue-boy.jpg" data-image-viewer-alt="Thomas Gainsborough, The Blue Boy, circa 1770." data-image-viewer-caption="Thomas Gainsborough, *The Blue Boy*, c. 1770. Oil on canvas. The Huntington Library, Art Museum, and Botanical Gardens." data-image-viewer-mode="gallery" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;figcaption&gt;Thomas Gainsborough, &lt;em&gt;The Blue Boy&lt;/em&gt;, c. 1770. Oil on canvas. The Huntington Library, Art Museum, and Botanical Gardens.&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;figure class="slideshow__slide"&gt;
@@ -601,7 +632,15 @@
  &lt;/div&gt;
 &lt;/section&gt;
 
-&lt;p&gt;Reynolds’s &lt;em&gt;Mrs Siddons as the Tragic Muse&lt;/em&gt; provides a British Grand Manner counterpoint at the same late-eighteenth-century moment as Rococo.&lt;/p&gt;</description></item><item><title>Gothic Art and Pilgrimage</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/</guid><description>&lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
+			&lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="lazy" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube-nocookie.com/embed/yBWyKRoh98U?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="Sofia Coppola, Marie Antoinette (2006) — official trailer"&gt;&lt;/iframe&gt;
+		&lt;/div&gt;
+
+&lt;h3 id="neoclassicism-and-revolution"&gt;Neoclassicism and Revolution&lt;/h3&gt;
+&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="David and Revolutionary Public Art"&gt;
+ &lt;header class="slideshow__header"&gt;
+ &lt;h2 class="slideshow__title"&gt;David and Revolutionary Public Art&lt;/h2&gt;
+ &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;</description></item><item><title>Gothic Art and Pilgrimage</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-09/</guid><description>&lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
 &lt;h3 id="gothic-architecture-a-visual-survey"&gt;Gothic Architecture: A Visual Survey&lt;/h3&gt;
 &lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Gothic Architectural Language"&gt;
  &lt;header class="slideshow__header"&gt;
