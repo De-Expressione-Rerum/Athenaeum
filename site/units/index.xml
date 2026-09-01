@@ -768,6 +768,16 @@
 
 &lt;figure class="slideshow__slide"&gt;
  &lt;div class="slideshow__image-frame"&gt;
+ &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/gentileschi-judith-holofernes_hu_143eb8634c96272f.webp" data-full-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/gentileschi-judith-holofernes.jpg" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/gentileschi-judith-holofernes_hu_143eb8634c96272f.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/gentileschi-judith-holofernes_hu_f03e9cb40dbc6422.webp 1178w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 1178px" width="1178" height="1500" alt="Artemisia Gentileschi, Judith Beheading Holofernes, c. 1620." loading="lazy" decoding="async"&gt;
+ &lt;button class="image-expand-button" type="button" data-image-viewer-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/gentileschi-judith-holofernes.jpg" data-image-viewer-alt="Artemisia Gentileschi, Judith Beheading Holofernes, c. 1620." data-image-viewer-caption="Artemisia Gentileschi, *Judith Beheading Holofernes*, c. 1620. Oil on canvas. Uffizi Galleries, Florence. Public domain." data-image-viewer-mode="gallery" aria-label="Expand image"&gt;
+ &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
+ &lt;/button&gt;
+ &lt;/div&gt;
+ &lt;figcaption&gt;Artemisia Gentileschi, &lt;em&gt;Judith Beheading Holofernes&lt;/em&gt;, c. 1620. Oil on canvas. Uffizi Galleries, Florence. Public domain.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class="slideshow__slide"&gt;
+ &lt;div class="slideshow__image-frame"&gt;
  &lt;img src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/bernini-ecstasy-saint-teresa_hu_30e6ed4a4bc1963.webp" data-full-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/bernini-ecstasy-saint-teresa.jpg" srcset="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/bernini-ecstasy-saint-teresa_hu_30e6ed4a4bc1963.webp 720w, https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/bernini-ecstasy-saint-teresa_hu_7fe2870c6e417424.webp 960w" sizes="(max-width: 760px) 100vw, 980px" style="--athenaeum-source-width: 960px" width="960" height="1280" alt="Gian Lorenzo Bernini, The Ecstasy of Saint Teresa, 1647–1652." loading="lazy" decoding="async"&gt;
  &lt;button class="image-expand-button" type="button" data-image-viewer-src="https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-15/bernini-ecstasy-saint-teresa.jpg" data-image-viewer-alt="Gian Lorenzo Bernini, The Ecstasy of Saint Teresa, 1647–1652." data-image-viewer-caption="Gian Lorenzo Bernini, *The Ecstasy of Saint Teresa*, 1647–1652." data-image-viewer-mode="gallery" aria-label="Expand image"&gt;
  &lt;svg aria-hidden="true" viewBox="0 0 24 24" width="22" height="22" focusable="false"&gt;&lt;path d="M8 3H3v5M16 3h5v5M3 16v5h5M21 16v5h-5" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="square"/&gt;&lt;/svg&gt;
@@ -1197,10 +1207,11 @@ but they drank it themselves through your mouth.
  &lt;/div&gt;
 &lt;/section&gt;
 
-&lt;h2 id="featured-poems-and-texts"&gt;Featured Poems and Texts&lt;/h2&gt;
-&lt;section class="poetry-block poetry-block--long-line poetry-block--form-protest-poem poetry-block--with-heading"&gt;
-&lt;header class="poetry-block__heading"&gt;
- &lt;p class="poetry-block__title"&gt;The Cry of the Children&lt;/p&gt;</description></item><item><title>Sturm und Drang</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-19/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-19/</guid><description>&lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
+&lt;h3 id="millet-labor-and-rural-life"&gt;Millet: Labor and Rural Life&lt;/h3&gt;
+&lt;section class="athenaeum-slideshow" data-slideshow aria-roledescription="carousel" aria-label="Millet and Rural Labor"&gt;
+ &lt;header class="slideshow__header"&gt;
+ &lt;h2 class="slideshow__title"&gt;Millet and Rural Labor&lt;/h2&gt;
+ &lt;p class="slideshow__counter" aria-live="polite"&gt;1 / 1&lt;/p&gt;</description></item><item><title>Sturm und Drang</title><link>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-19/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://De-Expressione-Rerum.github.io/Athenaeum/units/unit-19/</guid><description>&lt;h2 id="artworks-and-images"&gt;Artworks and Images&lt;/h2&gt;
 &lt;h3 id="enlightenment-observation"&gt;Enlightenment Observation&lt;/h3&gt;
 &lt;figure class="athenaeum-image"&gt;
  &lt;div class="athenaeum-image__frame"&gt;
